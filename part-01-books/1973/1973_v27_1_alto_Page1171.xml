@@ -1,0 +1,2626 @@
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd"><Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<sourceImageInformation>
+<fileName>1973_v27_1.pdf</fileName>
+</sourceImageInformation>
+<OCRProcessing ID="IdOcr">
+<ocrProcessingStep>
+<processingDateTime>2020-07-31</processingDateTime>
+<processingSoftware>
+<softwareCreator>ABBYY</softwareCreator>
+<softwareName>ABBYY Recognition Server</softwareName>
+<softwareVersion>4.0</softwareVersion>
+</processingSoftware>
+</ocrProcessingStep>
+</OCRProcessing>
+</Description>
+<Styles>
+<ParagraphStyle ID="StyleId-FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0."/>
+<ParagraphStyle ID="StyleId-661CA89D-E324-49FA-AB7B-89EDBBB867D8-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="18."/>
+<ParagraphStyle ID="StyleId-8CFE7F29-046E-4D83-8214-8EC054BFC30C-" ALIGN="Center" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="15.5"/>
+<ParagraphStyle ID="StyleId-90DC5E0D-C711-44B0-BE4C-95F44AC410E9-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="-11." LINESPACE="7.699999809"/>
+<ParagraphStyle ID="StyleId-3791ED08-449E-4EE8-8C40-E1B22A24CEBE-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-13." LINESPACE="6.71999979"/>
+<ParagraphStyle ID="StyleId-F5BB6463-C14E-4D9E-BFE3-739695E3CE3A-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-7." LINESPACE="6.960000038"/>
+<ParagraphStyle ID="StyleId-2B30825D-7B8F-4D80-890D-DE9856562E62-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-19." LINESPACE="7.400000095"/>
+<ParagraphStyle ID="StyleId-30CB3C86-C9FD-4568-8563-3B1FABF7063A-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0."/>
+<ParagraphStyle ID="StyleId-DB859AC2-B2E5-43AD-90EA-E0F4963514FF-" ALIGN="Center" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="12.19999981"/>
+<ParagraphStyle ID="StyleId-3D18EA79-05D4-417C-9584-67975335511E-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="13.68000031"/>
+<ParagraphStyle ID="StyleId-78A82642-F9DE-46AF-8321-98FFE512D595-" ALIGN="Center" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="22.70000076"/>
+<ParagraphStyle ID="StyleId-299B5FCF-CBDD-456C-AE3D-35603796CD69-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-12." LINESPACE="8.159999847"/>
+<ParagraphStyle ID="StyleId-729811E5-4C65-4F4B-8CA9-F7C231D6FE92-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="8.300000191"/>
+<ParagraphStyle ID="StyleId-6DCBB437-F5A0-4803-9483-A7089E3D8AA7-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="11.60000038"/>
+<ParagraphStyle ID="StyleId-60F45892-6303-466C-98F3-C0280B452C06-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="7.900000095"/>
+<ParagraphStyle ID="StyleId-9115630A-E07C-40E9-A41D-2637F3F98710-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.71999979"/>
+<ParagraphStyle ID="StyleId-B14B966E-9966-490F-A366-A052F66B1345-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.960000038"/>
+<ParagraphStyle ID="StyleId-77938279-AF16-4AE9-B538-D7EA6088DCB0-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.960000038"/>
+<ParagraphStyle ID="StyleId-6017912E-C299-448F-A5BE-6073B260E2DF-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-9." LINESPACE="7.400000095"/>
+<ParagraphStyle ID="StyleId-53A6D23D-8740-4C5A-9850-15BB1EA758CA-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="10.5"/>
+<ParagraphStyle ID="StyleId-C28396B5-A7F3-43D0-B103-C07FC4873357-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="11.10000038"/>
+<ParagraphStyle ID="StyleId-C1AD5401-F73D-4BC0-B736-5006CB4543DC-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-11." LINESPACE="7.699999809"/>
+<ParagraphStyle ID="StyleId-431AAF56-3E12-47BE-95B4-060722632DED-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-8." LINESPACE="6.960000038"/>
+<ParagraphStyle ID="StyleId-02F89AFF-4A9D-4EB8-87EA-05BB7170A835-" ALIGN="Center" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="8.5"/>
+<ParagraphStyle ID="StyleId-8CC1820D-0FB8-4A37-AEA1-694918EF29C3-" ALIGN="Center" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="8.5"/>
+<ParagraphStyle ID="StyleId-D7EE1546-6D9B-43C6-A702-2BDD7A3E39AA-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-8." LINESPACE="6.960000038"/>
+<ParagraphStyle ID="StyleId-4B338CC5-68C4-4C6D-8EED-E0DD0BC667B3-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-11." LINESPACE="6.71999979"/>
+<ParagraphStyle ID="StyleId-F026777D-B802-457F-8C97-6475C2C603D1-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="10.19999981"/>
+<ParagraphStyle ID="StyleId-AA36B7A8-E9FF-488A-8BA6-A28B4B511D3F-" ALIGN="Block" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.71999979"/>
+<ParagraphStyle ID="StyleId-EA17C13D-0851-4EF5-9C6E-BB61F1895AA7-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="7.900000095"/>
+<ParagraphStyle ID="StyleId-88463EDB-025B-41DC-B252-12539C4B19AC-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-7." LINESPACE="7.440000057"/>
+<ParagraphStyle ID="StyleId-01AAF065-1C94-4942-9C92-CF7994089540-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-13." LINESPACE="6.71999979"/>
+<ParagraphStyle ID="StyleId-6C7E0F9B-97BE-499F-850D-DDDA2CCD2F23-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-11." LINESPACE="9.100000381"/>
+<ParagraphStyle ID="StyleId-B3E19A15-013D-4E09-8F89-0C3606C325C7-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="0." LINESPACE="6.71999979"/>
+<ParagraphStyle ID="StyleId-417B8E01-DB14-43AC-815A-ED9E09810BEE-" ALIGN="Left" LEFT="0." RIGHT="0." FIRSTLINE="-12." LINESPACE="7.679999828"/>
+</Styles>
+<Layout>
+<Page ID="Page1171" PHYSICAL_IMG_NR="1171" HEIGHT="6613" WIDTH="5005">
+<TopMargin HEIGHT="540" WIDTH="5005" VPOS="0" HPOS="0">
+<ComposedBlock ID="Page1171_Block1" HEIGHT="106" WIDTH="4404" VPOS="355" HPOS="159" TYPE="container">
+<Shape>
+<Polygon POINTS="160,355 197,355 197,356 658,356 658,357 1120,357 1120,358 1581,358 1581,359 2043,359 2043,360 2504,360 2504,361 2966,361 2966,362 3427,362 3427,363 3889,363 3889,364 4350,364 4350,365 4563,365 4563,461 4347,461 4347,460 3885,460 3885,459 3424,459 3424,458 2962,458 2962,457 2501,457 2501,456 2039,456 2039,455 1578,455 1578,454 1116,454 1116,453 655,453 655,452 193,452 193,451 159,451 159,356 160,356 160,355"/>
+</Shape>
+<TextBlock ID="Page1171_Block2" HEIGHT="78" WIDTH="136" VPOS="365" HPOS="4427" LANG="en-US" STYLEREFS="StyleId-C042537F-0EAB-4610-8D02-7968F784B83F-">
+<TextLine HEIGHT="53" WIDTH="112" VPOS="377" HPOS="4440">
+<String CONTENT="1171" HEIGHT="53" WIDTH="112" VPOS="377" HPOS="4440"/>
+</TextLine>
+</TextBlock>
+</ComposedBlock>
+</TopMargin>
+<LeftMargin HEIGHT="5641" WIDTH="134" VPOS="540" HPOS="0">
+</LeftMargin>
+<RightMargin HEIGHT="5641" WIDTH="432" VPOS="540" HPOS="4573">
+</RightMargin>
+<BottomMargin HEIGHT="432" WIDTH="5005" VPOS="6181" HPOS="0">
+</BottomMargin>
+<PrintSpace HEIGHT="5641" WIDTH="4439" VPOS="540" HPOS="134">
+<ComposedBlock ID="Page1171_Block3" HEIGHT="5576" WIDTH="2958" VPOS="563" HPOS="1615" TYPE="container">
+<Shape>
+<Polygon POINTS="1627,563 2043,563 2043,564 2504,564 2504,565 2966,565 2966,566 3427,566 3427,567 3889,567 3889,568 4350,568 4350,569 4573,569 4573,770 4572,770 4572,1231 4571,1231 4571,1693 4570,1693 4570,2154 4569,2154 4569,2616 4568,2616 4568,3078 4567,3078 4567,3539 4566,3539 4566,4001 4565,4001 4565,4462 4564,4462 4564,4924 4563,4924 4563,5385 4562,5385 4562,5847 4561,5847 4561,6139 4347,6139 4347,6138 3885,6138 3885,6137 3424,6137 3424,6136 2962,6136 2962,6135 2501,6135 2501,6134 2039,6134 2039,6133 1615,6133 1615,5843 1616,5843 1616,5382 1617,5382 1617,4920 1618,4920 1618,4459 1619,4459 1619,3997 1620,3997 1620,3535 1621,3535 1621,3074 1622,3074 1622,2612 1623,2612 1623,2151 1624,2151 1624,1689 1625,1689 1625,1228 1626,1228 1626,766 1627,766 1627,563"/>
+</Shape>
+<TextBlock ID="Page1171_Block4" HEIGHT="5535" WIDTH="1486" VPOS="581" HPOS="1615" LANG="en-US" CS="1" STYLEREFS="StyleId-9DDC0715-E573-432D-9CE3-964958CE0E2D-">
+<Shape>
+<Polygon POINTS="1627,581 2043,581 2043,582 2504,582 2504,583 2966,583 2966,584 3101,584 3101,770 3100,770 3100,1231 3099,1231 3099,1693 3098,1693 3098,2154 3097,2154 3097,2616 3096,2616 3096,3078 3095,3078 3095,3539 3094,3539 3094,4001 3093,4001 3093,4462 3092,4462 3092,4924 3091,4924 3091,5385 3090,5385 3090,5847 3089,5847 3089,6116 2962,6116 2962,6115 2501,6115 2501,6114 2039,6114 2039,6113 1615,6113 1615,5843 1616,5843 1616,5382 1617,5382 1617,4920 1618,4920 1618,4459 1619,4459 1619,3997 1620,3997 1620,3535 1621,3535 1621,3074 1622,3074 1622,2612 1623,2612 1623,2151 1624,2151 1624,1689 1625,1689 1625,1228 1626,1228 1626,766 1627,766 1627,581"/>
+</Shape>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Irontori"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telphone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Co."/>
+<SP/>
+<String CS="1" CONTENT="Jun73&#8226;"/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="7Jun;"/>
+<SP/>
+<!-- cceid 2061944C-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A445357."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Kent,"/>
+<SP/>
+<String CS="1" CONTENT="Ravenna,"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="telephone"/>
+<SP/>
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Telephone"/>
+<SP/>
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="1973."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="30Jan;"/>
+<SP/>
+<!-- cceid 2064CBF1-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A404819."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Niles"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="telephone"/>
+<SP/>
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+<SP/>
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="1973-1974."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="22Feb73;"/>
+<SP/>
+<!-- cceid 206822A5-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A414405."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Painesville,"/>
+<SP/>
+<String CS="1" CONTENT="Willoughby"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="Cleveland"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="independent"/>
+<SP/>
+<String CS="1" CONTENT="company"/>
+<SP/>
+<String CS="1" CONTENT="tribs"/>
+<SP/>
+<String CS="1" CONTENT="information"/>
+<SP/>
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Telephone"/>
+<SP/>
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="19Dec72;"/>
+<SP/>
+<!-- cceid 206B5ADD-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A394383."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="31Jan73;"/>
+<SP/>
+<String CS="1" CONTENT="A421533."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="15Mar73;"/>
+<SP/>
+<String CS="1" CONTENT="A421890."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="27Apr73;"/>
+<SP/>
+<String CS="1" CONTENT="A435238."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Ripley,"/>
+<SP/>
+<String CS="1" CONTENT="Aberdeen"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="telephone"/>
+<SP/>
+<String CS="1" CONTENT="directory."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+<SP/>
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="1973-1974."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="7May73;"/>
+<SP/>
+<!-- cceid 206F4354-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A434885."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Salem,"/>
+<SP/>
+<String CS="1" CONTENT="Lisbon,"/>
+<SP/>
+<String CS="1" CONTENT="Columbiana"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="others"/>
+<SP/>
+<String CS="1" CONTENT="telephone"/>
+<SP/>
+<String CS="1" CONTENT="directory."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+<SP/>
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="1973-1974."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="22Feb73;"/>
+<SP/>
+<!-- cceid 207261C5-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A414403."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Springfield"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="information"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Co."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="26Dec72;"/>
+<SP/>
+<!-- cceid 2075CAC6-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A396798."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="5"/>
+<SP/>
+<String CS="1" CONTENT="Jan73;"/>
+<SP/>
+<String CS="1" CONTENT="A421526."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="19Mar73;"/>
+<SP/>
+<String CS="1" CONTENT="A421891."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="19Apr73;"/>
+<SP/>
+<String CS="1" CONTENT="A430833."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="29May73;"/>
+<SP/>
+<String CS="1" CONTENT="A442543."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Springfield"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Co."/>
+<SP/>
+<String CS="1" CONTENT="Jun73."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="4Jun;"/>
+<SP/>
+<!-- cceid 2078F964-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A445346."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Tiffin"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="telephone"/>
+<SP/>
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+<SP/>
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="1973."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="21Dec72"/>
+<SP/>
+<String CS="1" CONTENT="(in"/>
+<SP/>
+<String CS="1" CONTENT="notice:"/>
+<SP/>
+<String CS="1" CONTENT="1973);"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<!-- cceid 207C6BE2-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A395409."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Toledo"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="information"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="29Dec72;"/>
+<SP/>
+<!-- cceid 207F7D00-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A400147."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="1Feb73;"/>
+<SP/>
+<String CS="1" CONTENT="A421531."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="1Mar73;"/>
+<SP/>
+<String CS="1" CONTENT="A419357."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="2Apr73;"/>
+<SP/>
+<String CS="1" CONTENT="A426659."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="26Apr73;"/>
+<SP/>
+<String CS="1" CONTENT="A435243."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Washington"/>
+<SP/>
+<String CS="1" CONTENT="Court"/>
+<SP/>
+<String CS="1" CONTENT="House"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="telephone"/>
+<SP/>
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Telephone"/>
+<SP/>
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="1973-1974."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="10May73;"/>
+<SP/>
+<!-- cceid 208300A1-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A434336."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Winchester"/>
+<SP/>
+<String CS="1" CONTENT="telephone"/>
+<SP/>
+<String CS="1" CONTENT="directory."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="11"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+<SP/>
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="1973-1974."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="3May73;"/>
+<SP/>
+<!-- cceid 20862019-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A434886."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Xenia"/>
+<SP/>
+<String CS="1" CONTENT="and."/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="information"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-44E6786C-5251-45EE-A1E7-29EC609C0F13-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="10Jan73;"/>
+<SP/>
+<!-- cceid 20898C36-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A400146."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-2BBC7FD9-FA95-4170-A5D7-14ACC278AE4C-" CS="1">
+<String CS="1" CONTENT="Mar73."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="29Mar;"/>
+<SP/>
+<String CS="1" CONTENT="A426660."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Xenia"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Co."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="1973-1974."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="8May73;"/>
+<SP/>
+<!-- cceid 208D7AB2-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A434331."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="2May73."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="2May;"/>
+<SP/>
+<String CS="1" CONTENT="A435241."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Youngstown"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="information"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Co."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="11Jan73;"/>
+<SP/>
+<!-- cceid 209090F2-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A404670."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="20Feb73;"/>
+<SP/>
+<String CS="1" CONTENT="A414579."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="27Mar73;"/>
+<SP/>
+<String CS="1" CONTENT="A426661."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-AE59FA4D-6652-4A12-A2DC-1C2D83C4BCDC-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="10May73;"/>
+<SP/>
+<String CS="1" CONTENT="A435244."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" STYLEREFS="StyleId-BCE401CF-BD3D-4DB4-83B1-9D683857489A-" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="7Jun73;"/>
+<SP/>
+<String CS="1" CONTENT="A445631."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Youngstown"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="vicinity"/>
+<SP/>
+<String CS="1" CONTENT="telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="directory."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Bell"/>
+<SP/>
+<String CS="1" CONTENT="Telephone"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Co."/>
+<SP/>
+<String CS="1" CONTENT="1973-1974."/>
+<SP/>
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="28Feb73;"/>
+<SP/>
+<!-- cceid 2093DFED-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A417142."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="OHIO"/>
+<SP/>
+<String CS="1" CONTENT="BRASS"/>
+<SP/>
+<String CS="1" CONTENT="CO."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="OB"/>
+<SP/>
+<String CS="1" CONTENT="transmission"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="distribution"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="insulators;"/>
+<SP/>
+<String CS="1" CONTENT="catalog"/>
+<SP/>
+<String CS="1" CONTENT="60."/>
+<SP/>
+<String CS="1" CONTENT="59"/>
+<SP/>
+<String CS="1" CONTENT="p."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="&#169;"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Brass"/>
+<SP/>
+<String CS="1" CONTENT="Co.;"/>
+<SP/>
+<String CS="1" CONTENT="13Apr73;"/>
+<SP/>
+<!-- cceid 20972157-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A431958."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="OHIO"/>
+<SP/>
+<String CS="1" CONTENT="COUNCIL"/>
+<SP/>
+<String CS="1" CONTENT="OF"/>
+<SP/>
+<String CS="1" CONTENT="SKIN"/>
+<SP/>
+<String CS="1" CONTENT="&amp;"/>
+<SP/>
+<String CS="1" CONTENT="SCUBA"/>
+<SP/>
+<String CS="1" CONTENT="DIVERS,"/>
+<SP/>
+<String CS="1" CONTENT="INC."/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="A"/>
+<SP/>
+<String CS="1" CONTENT="survey"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="diving"/>
+<SP/>
+<String CS="1" CONTENT="photographers"/>
+<SP/>
+<String CS="1" CONTENT="in"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="the"/>
+<SP/>
+<String CS="1" CONTENT="Ohio"/>
+<SP/>
+<String CS="1" CONTENT="Council"/>
+<SP/>
+<String CS="1" CONTENT="of"/>
+<SP/>
+<String CS="1" CONTENT="Skin"/>
+<SP/>
+<String CS="1" CONTENT="and"/>
+<SP/>
+<String CS="1" CONTENT="Scuba"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="Divers,"/>
+<SP/>
+<String CS="1" CONTENT="Incorporated."/>
+<SP/>
+<String CS="1" CONTENT="See"/>
+<SP/>
+<String CS="1" CONTENT="BOUCEK,"/>
+</TextLine>
+<TextLine HEIGHT="0" WIDTH="0" VPOS="0" HPOS="0" CS="1">
+<String CS="1" CONTENT="JAMES"/>
+<SP/>
+<String CS="1" CONTENT="G.,"/>
+<SP/>
+<String CS="1" CONTENT="JR."/>
+</TextLine>
+<TextLine HEIGHT="53" WIDTH="1029" VPOS="593" HPOS="1654" STYLEREFS="StyleId-8F5BAEF0-3B71-4CAC-B80F-4AEF7F806D06-">
+<String CONTENT="OHIO." HEIGHT="48" WIDTH="158" VPOS="596" HPOS="1654"/>
+<SP HEIGHT="48" WIDTH="83" VPOS="596" HPOS="1813"/>
+<String CONTENT="COURTS" HEIGHT="48" WIDTH="197" VPOS="595" HPOS="1897"/>
+<SP HEIGHT="45" WIDTH="40" VPOS="596" HPOS="2095"/>
+<String CONTENT="OP" HEIGHT="44" WIDTH="64" VPOS="597" HPOS="2136"/>
+<SP HEIGHT="47" WIDTH="33" VPOS="594" HPOS="2201"/>
+<String CONTENT="APPEALS." HEIGHT="47" WIDTH="265" VPOS="594" HPOS="2235"/>
+<SP HEIGHT="48" WIDTH="84" VPOS="594" HPOS="2501"/>
+<String CONTENT="See" HEIGHT="46" WIDTH="97" VPOS="595" HPOS="2586"/>
+</TextLine>
+<TextLine HEIGHT="41" WIDTH="744" VPOS="659" HPOS="1723" STYLEREFS="StyleId-8F5BAEF0-3B71-4CAC-B80F-4AEF7F806D06-">
+<String CONTENT="OHIO" HEIGHT="38" WIDTH="132" VPOS="661" HPOS="1723"/>
+<SP HEIGHT="37" WIDTH="38" VPOS="662" HPOS="1856"/>
+<String CONTENT="OFFICIAL" HEIGHT="41" WIDTH="273" VPOS="659" HPOS="1895"/>
+<SP HEIGHT="36" WIDTH="37" VPOS="662" HPOS="2169"/>
+<String CONTENT="RETORTS." HEIGHT="36" WIDTH="260" VPOS="662" HPOS="2207"/>
+</TextLine>
+<TextLine HEIGHT="46" WIDTH="879" VPOS="773" HPOS="1681">
+<String CONTENT="OHIO." HEIGHT="42" WIDTH="154" VPOS="773" HPOS="1681"/>
+<SP HEIGHT="38" WIDTH="85" VPOS="777" HPOS="1836"/>
+<String CONTENT="DEPT." HEIGHT="41" WIDTH="154" VPOS="775" HPOS="1922"/>
+<SP HEIGHT="40" WIDTH="51" VPOS="776" HPOS="2077"/>
+<String CONTENT="OF" HEIGHT="39" WIDTH="61" VPOS="776" HPOS="2129"/>
+<SP HEIGHT="37" WIDTH="38" VPOS="778" HPOS="2191"/>
+<String CONTENT="EDUCATION." HEIGHT="42" WIDTH="330" VPOS="777" HPOS="2230"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="1097" VPOS="833" HPOS="1748">
+<String CONTENT="Education" HEIGHT="41" WIDTH="305" VPOS="833" HPOS="1748"/>
+<SP HEIGHT="39" WIDTH="40" VPOS="834" HPOS="2054"/>
+<String CONTENT="in" HEIGHT="39" WIDTH="60" VPOS="834" HPOS="2095"/>
+<SP HEIGHT="38" WIDTH="42" VPOS="835" HPOS="2156"/>
+<String CONTENT="human" HEIGHT="40" WIDTH="164" VPOS="835" HPOS="2199"/>
+<SP HEIGHT="30" WIDTH="42" VPOS="845" HPOS="2364"/>
+<String CONTENT="sexuality" HEIGHT="51" WIDTH="303" VPOS="836" HPOS="2407"/>
+<SP HEIGHT="49" WIDTH="39" VPOS="838" HPOS="2711"/>
+<String CONTENT="for" HEIGHT="40" WIDTH="94" VPOS="838" HPOS="2751"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="1192" VPOS="890" HPOS="1816">
+<String CONTENT="senior" HEIGHT="41" WIDTH="202" VPOS="890" HPOS="1816"/>
+<SP HEIGHT="40" WIDTH="42" VPOS="892" HPOS="2019"/>
+<String CONTENT="high" HEIGHT="49" WIDTH="129" VPOS="893" HPOS="2062"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="894" HPOS="2192"/>
+<String CONTENT="school;" HEIGHT="48" WIDTH="225" VPOS="895" HPOS="2233"/>
+<SP HEIGHT="49" WIDTH="49" VPOS="895" HPOS="2459"/>
+<String CONTENT="teacher" HEIGHT="41" WIDTH="234" VPOS="895" HPOS="2509"/>
+<SP HEIGHT="29" WIDTH="40" VPOS="906" HPOS="2744"/>
+<String CONTENT="manual." HEIGHT="42" WIDTH="223" VPOS="897" HPOS="2785"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1200" VPOS="950" HPOS="1816">
+<String CONTENT="Cooperatively" HEIGHT="52" WIDTH="444" VPOS="950" HPOS="1816"/>
+<SP HEIGHT="42" WIDTH="37" VPOS="962" HPOS="2261"/>
+<String CONTENT="prepared" HEIGHT="50" WIDTH="270" VPOS="955" HPOS="2299"/>
+<SP HEIGHT="39" WIDTH="37" VPOS="955" HPOS="2570"/>
+<String CONTENT="by" HEIGHT="50" WIDTH="66" VPOS="955" HPOS="2608"/>
+<SP HEIGHT="50" WIDTH="40" VPOS="955" HPOS="2675"/>
+<String CONTENT="the" HEIGHT="40" WIDTH="93" VPOS="955" HPOS="2716"/>
+<SP HEIGHT="39" WIDTH="43" VPOS="957" HPOS="2810"/>
+<String CONTENT="State" HEIGHT="41" WIDTH="162" VPOS="956" HPOS="2854"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="1092" VPOS="1009" HPOS="1819" CS="1">
+<String CONTENT="of" HEIGHT="37" WIDTH="61" VPOS="1009" HPOS="1819"/>
+<SP HEIGHT="40" WIDTH="40" VPOS="1009" HPOS="1881"/>
+<String CONTENT="Ohio," HEIGHT="48" WIDTH="155" VPOS="1010" HPOS="1922"/>
+<SP HEIGHT="45" WIDTH="49" VPOS="1013" HPOS="2078"/>
+<String CS="1" CONTENT="Dept." HEIGHT="49" WIDTH="128" VPOS="1012" HPOS="2128"/>
+<SP HEIGHT="28" WIDTH="49" VPOS="1022" HPOS="2283"/>
+<String CONTENT="of" HEIGHT="37" WIDTH="62" VPOS="1013" HPOS="2333"/>
+<SP HEIGHT="39" WIDTH="40" VPOS="1013" HPOS="2396"/>
+<String CONTENT="Education," HEIGHT="50" WIDTH="331" VPOS="1013" HPOS="2437"/>
+<SP HEIGHT="47" WIDTH="51" VPOS="1016" HPOS="2769"/>
+<String CONTENT="the" HEIGHT="38" WIDTH="90" VPOS="1015" HPOS="2821"/>
+</TextLine>
+<TextLine HEIGHT="44" WIDTH="1064" VPOS="1067" HPOS="1816">
+<String CONTENT="Educational" HEIGHT="40" WIDTH="371" VPOS="1067" HPOS="1816"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="1069" HPOS="2188"/>
+<String CONTENT="Research" HEIGHT="39" WIDTH="271" VPOS="1070" HPOS="2228"/>
+<SP HEIGHT="41" WIDTH="39" VPOS="1070" HPOS="2500"/>
+<String CONTENT="Council" HEIGHT="40" WIDTH="233" VPOS="1071" HPOS="2540"/>
+<SP HEIGHT="38" WIDTH="43" VPOS="1072" HPOS="2774"/>
+<String CONTENT="of" HEIGHT="37" WIDTH="62" VPOS="1073" HPOS="2818"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="1162" VPOS="1124" HPOS="1816">
+<String CONTENT="America" HEIGHT="40" WIDTH="233" VPOS="1124" HPOS="1816"/>
+<SP HEIGHT="37" WIDTH="39" VPOS="1127" HPOS="2050"/>
+<String CONTENT="&amp;" HEIGHT="36" WIDTH="32" VPOS="1127" HPOS="2090"/>
+<SP HEIGHT="37" WIDTH="38" VPOS="1127" HPOS="2123"/>
+<String CONTENT="the" HEIGHT="37" WIDTH="92" VPOS="1127" HPOS="2162"/>
+<SP HEIGHT="37" WIDTH="39" VPOS="1129" HPOS="2255"/>
+<String CONTENT="Westlake" HEIGHT="40" WIDTH="272" VPOS="1127" HPOS="2295"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="1130" HPOS="2568"/>
+<String CONTENT="City" HEIGHT="49" WIDTH="133" VPOS="1129" HPOS="2608"/>
+<SP HEIGHT="46" WIDTH="37" VPOS="1132" HPOS="2742"/>
+<String CONTENT="Public" HEIGHT="40" WIDTH="198" VPOS="1130" HPOS="2780"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1162" VPOS="1181" HPOS="1816">
+<String CONTENT="School" HEIGHT="41" WIDTH="198" VPOS="1181" HPOS="1817"/>
+<SP HEIGHT="40" WIDTH="41" VPOS="1183" HPOS="2016"/>
+<String CONTENT="System." HEIGHT="48" WIDTH="224" VPOS="1184" HPOS="2057"/>
+<SP HEIGHT="38" WIDTH="87" VPOS="1186" HPOS="2282"/>
+<String CONTENT="293" HEIGHT="47" WIDTH="91" VPOS="1185" HPOS="2369"/>
+<SP HEIGHT="48" WIDTH="45" VPOS="1187" HPOS="2460"/>
+<String CONTENT="p." HEIGHT="41" WIDTH="53" VPOS="1195" HPOS="2505"/>
+<SP HEIGHT="40" WIDTH="78" VPOS="1186" HPOS="2559"/>
+<String CONTENT="&#169;" HEIGHT="38" WIDTH="38" VPOS="1186" HPOS="2638"/>
+<SP HEIGHT="41" WIDTH="29" VPOS="1186" HPOS="2677"/>
+<String CONTENT="Westlake" HEIGHT="40" WIDTH="271" VPOS="1188" HPOS="2707"/>
+</TextLine>
+<TextLine HEIGHT="113" WIDTH="1193" VPOS="1239" HPOS="1813" CS="1">
+<String CONTENT="City" HEIGHT="50" WIDTH="135" VPOS="1239" HPOS="1813"/>
+<SP HEIGHT="47" WIDTH="36" VPOS="1242" HPOS="1949"/>
+<String CONTENT="Board" HEIGHT="42" WIDTH="165" VPOS="1239" HPOS="1986"/>
+<SP HEIGHT="38" WIDTH="41" VPOS="1240" HPOS="2152"/>
+<String CONTENT="of" HEIGHT="38" WIDTH="62" VPOS="1240" HPOS="2194"/>
+<SP HEIGHT="40" WIDTH="39" VPOS="1240" HPOS="2257"/>
+<String CONTENT="Education" HEIGHT="40" WIDTH="305" VPOS="1241" HPOS="2297"/>
+<SP HEIGHT="37" WIDTH="38" VPOS="1244" HPOS="2603"/>
+<String CONTENT="&amp;" HEIGHT="37" WIDTH="31" VPOS="1244" HPOS="2642"/>
+<SP HEIGHT="39" WIDTH="35" VPOS="1244" HPOS="2674"/>
+<String CONTENT="Educational" HEIGHT="97" WIDTH="1060" VPOS="1242" HPOS="1816"/>
+<SP HEIGHT="42" WIDTH="39" VPOS="1298" HPOS="2014"/>
+<String CONTENT="Research" HEIGHT="39" WIDTH="272" VPOS="1301" HPOS="2054"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="1301" HPOS="2327"/>
+<String CONTENT="Council" HEIGHT="41" WIDTH="236" VPOS="1301" HPOS="2365"/>
+<SP HEIGHT="38" WIDTH="41" VPOS="1303" HPOS="2602"/>
+<String CONTENT="of" HEIGHT="38" WIDTH="60" VPOS="1303" HPOS="2644"/>
+<SP HEIGHT="40" WIDTH="40" VPOS="1303" HPOS="2705"/>
+<String CONTENT="America;" HEIGHT="48" WIDTH="260" VPOS="1304" HPOS="2746"/>
+</TextLine>
+<TextLine HEIGHT="57" WIDTH="399" VPOS="1348" HPOS="1948" CS="1">
+<String CS="1" CONTENT="1Feb73;" HEIGHT="47" WIDTH="92" VPOS="1356" HPOS="1948"/>
+<SP HEIGHT="47" WIDTH="47" VPOS="1357" HPOS="2041"/>
+<!-- cceid 20A13751-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A407623." HEIGHT="56" WIDTH="258" VPOS="1349" HPOS="2089"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="964" VPOS="1409" HPOS="1748" CS="1">
+<String CONTENT="Human-persons" HEIGHT="53" WIDTH="443" VPOS="1409" HPOS="1748"/>
+<SP HEIGHT="29" WIDTH="40" VPOS="1426" HPOS="2192"/>
+<String CONTENT="and" HEIGHT="38" WIDTH="96" VPOS="1419" HPOS="2233"/>
+<SP HEIGHT="39" WIDTH="42" VPOS="1419" HPOS="2330"/>
+<String CONTENT="the" HEIGHT="39" WIDTH="94" VPOS="1420" HPOS="2373"/>
+<SP HEIGHT="30" WIDTH="38" VPOS="1429" HPOS="2468"/>
+<String CONTENT="use" HEIGHT="31" WIDTH="99" VPOS="1430" HPOS="2507"/>
+<SP HEIGHT="28" WIDTH="42" VPOS="1433" HPOS="2607"/>
+<String CONTENT="of" HEIGHT="38" WIDTH="62" VPOS="1425" HPOS="2650"/>
+</TextLine>
+<TextLine HEIGHT="64" WIDTH="1097" VPOS="1469" HPOS="1817">
+<String CONTENT="psychoactive" HEIGHT="49" WIDTH="407" VPOS="1469" HPOS="1817"/>
+<SP HEIGHT="29" WIDTH="39" VPOS="1483" HPOS="2225"/>
+<String CONTENT="agents:" HEIGHT="45" WIDTH="231" VPOS="1478" HPOS="2265"/>
+<SP HEIGHT="32" WIDTH="47" VPOS="1486" HPOS="2497"/>
+<String CONTENT="student" HEIGHT="40" WIDTH="232" VPOS="1481" HPOS="2545"/>
+<SP HEIGHT="37" WIDTH="41" VPOS="1484" HPOS="2778"/>
+<String CONTENT="rap" HEIGHT="40" WIDTH="94" VPOS="1493" HPOS="2820"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="1131" VPOS="1525" HPOS="1819">
+<String CONTENT="sheets." HEIGHT="41" WIDTH="225" VPOS="1525" HPOS="1819"/>
+<SP HEIGHT="38" WIDTH="81" VPOS="1529" HPOS="2045"/>
+<String CONTENT="See" HEIGHT="40" WIDTH="97" VPOS="1529" HPOS="2127"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="1532" HPOS="2225"/>
+<String CONTENT="EDUCATIONAL" HEIGHT="44" WIDTH="378" VPOS="1532" HPOS="2266"/>
+<SP HEIGHT="39" WIDTH="34" VPOS="1538" HPOS="2645"/>
+<String CONTENT="RESEARCH" HEIGHT="42" WIDTH="270" VPOS="1538" HPOS="2680"/>
+</TextLine>
+<TextLine HEIGHT="52" WIDTH="640" VPOS="1582" HPOS="1818">
+<String CONTENT="COUNCIL" HEIGHT="44" WIDTH="238" VPOS="1582" HPOS="1818"/>
+<SP HEIGHT="40" WIDTH="36" VPOS="1586" HPOS="2057"/>
+<String CONTENT="OF" HEIGHT="40" WIDTH="63" VPOS="1586" HPOS="2094"/>
+<SP HEIGHT="40" WIDTH="33" VPOS="1586" HPOS="2158"/>
+<String CONTENT="AMERICA." HEIGHT="48" WIDTH="266" VPOS="1586" HPOS="2192"/>
+</TextLine>
+<TextLine HEIGHT="59" WIDTH="1028" VPOS="1676" HPOS="1687">
+<String CONTENT="OHIO." HEIGHT="45" WIDTH="159" VPOS="1688" HPOS="1687"/>
+<SP HEIGHT="43" WIDTH="80" VPOS="1690" HPOS="1846"/>
+<String CONTENT="DEPT." HEIGHT="45" WIDTH="161" VPOS="1688" HPOS="1927"/>
+<SP HEIGHT="45" WIDTH="46" VPOS="1688" HPOS="2088"/>
+<String CONTENT="OP" HEIGHT="42" WIDTH="66" VPOS="1688" HPOS="2134"/>
+<SP HEIGHT="41" WIDTH="37" VPOS="1689" HPOS="2200"/>
+<String CONTENT="TAXATION." HEIGHT="46" WIDTH="300" VPOS="1685" HPOS="2237"/>
+<SP HEIGHT="52" WIDTH="81" VPOS="1678" HPOS="2537"/>
+<String CONTENT="See" HEIGHT="45" WIDTH="97" VPOS="1678" HPOS="2618"/>
+</TextLine>
+<TextLine HEIGHT="50" WIDTH="1123" VPOS="1742" HPOS="1757">
+<String CONTENT="BALDWIN'S" HEIGHT="43" WIDTH="301" VPOS="1748" HPOS="1757"/>
+<SP HEIGHT="40" WIDTH="41" VPOS="1750" HPOS="2059"/>
+<String CONTENT="OHIO" HEIGHT="40" WIDTH="131" VPOS="1749" HPOS="2101"/>
+<SP HEIGHT="38" WIDTH="37" VPOS="1749" HPOS="2233"/>
+<String CONTENT="TAX" HEIGHT="40" WIDTH="100" VPOS="1747" HPOS="2271"/>
+<SP HEIGHT="39" WIDTH="37" VPOS="1748" HPOS="2372"/>
+<String CONTENT="LAW" HEIGHT="42" WIDTH="100" VPOS="1746" HPOS="2410"/>
+<SP HEIGHT="42" WIDTH="35" VPOS="1745" HPOS="2511"/>
+<String CONTENT="AND" HEIGHT="41" WIDTH="103" VPOS="1745" HPOS="2547"/>
+<SP HEIGHT="38" WIDTH="36" VPOS="1747" HPOS="2651"/>
+<String CONTENT="RULES." HEIGHT="41" WIDTH="192" VPOS="1744" HPOS="2688"/>
+</TextLine>
+<TextLine HEIGHT="111" WIDTH="1227" VPOS="1806" HPOS="1708" CS="1">
+<String CONTENT="Ohio" HEIGHT="40" WIDTH="129" VPOS="1807" HPOS="1708"/>
+<SP HEIGHT="30" WIDTH="40" VPOS="1817" HPOS="1838"/>
+<String CONTENT="educational" HEIGHT="41" WIDTH="375" VPOS="1807" HPOS="1879"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="1808" HPOS="2255"/>
+<String CONTENT="financial" HEIGHT="42" WIDTH="304" VPOS="1807" HPOS="2295"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="1808" HPOS="2600"/>
+<String CONTENT="accounting" HEIGHT="109" WIDTH="1100" VPOS="1806" HPOS="1774"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="1875" HPOS="1874"/>
+<String CONTENT="system." HEIGHT="50" WIDTH="226" VPOS="1866" HPOS="1915"/>
+<SP HEIGHT="45" WIDTH="78" VPOS="1865" HPOS="2142"/>
+<String CONTENT="55" HEIGHT="46" WIDTH="63" VPOS="1865" HPOS="2221"/>
+<SP HEIGHT="49" WIDTH="39" VPOS="1865" HPOS="2285"/>
+<String CONTENT="p." HEIGHT="38" WIDTH="58" VPOS="1876" HPOS="2325"/>
+<SP HEIGHT="41" WIDTH="82" VPOS="1866" HPOS="2384"/>
+<String CONTENT="Appl." HEIGHT="50" WIDTH="159" VPOS="1864" HPOS="2467"/>
+<SP HEIGHT="32" WIDTH="45" VPOS="1874" HPOS="2627"/>
+<String CONTENT="authors:" HEIGHT="40" WIDTH="262" VPOS="1865" HPOS="2673"/>
+</TextLine>
+<TextLine HEIGHT="46" WIDTH="1028" VPOS="1919" HPOS="1777" CS="1">
+<String CONTENT="Ohio" HEIGHT="39" WIDTH="129" VPOS="1922" HPOS="1777"/>
+<SP HEIGHT="38" WIDTH="38" VPOS="1923" HPOS="1907"/>
+<String CS="1" CONTENT="Dept."/>
+<SP HEIGHT="31" WIDTH="46" VPOS="1933" HPOS="2108"/>
+<String CONTENT="of" HEIGHT="38" WIDTH="65" VPOS="1923" HPOS="2155"/>
+<SP HEIGHT="38" WIDTH="35" VPOS="1923" HPOS="2221"/>
+<String CONTENT="Education" HEIGHT="40" WIDTH="309" VPOS="1922" HPOS="2257"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="1921" HPOS="2567"/>
+<String CONTENT="&amp;" HEIGHT="38" WIDTH="32" VPOS="1921" HPOS="2605"/>
+<SP HEIGHT="40" WIDTH="36" VPOS="1921" HPOS="2638"/>
+<String CONTENT="Ohio" HEIGHT="39" WIDTH="130" VPOS="1922" HPOS="2675"/>
+</TextLine>
+<TextLine HEIGHT="45" WIDTH="1172" VPOS="1977" HPOS="1774" CS="1">
+<String CONTENT="Auditor" HEIGHT="39" WIDTH="237" VPOS="1979" HPOS="1774"/>
+<SP HEIGHT="31" WIDTH="39" VPOS="1988" HPOS="2012"/>
+<String CONTENT="of" HEIGHT="40" WIDTH="64" VPOS="1979" HPOS="2052"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="1979" HPOS="2117"/>
+<String CONTENT="State." HEIGHT="42" WIDTH="193" VPOS="1979" HPOS="2155"/>
+<SP HEIGHT="43" WIDTH="75" VPOS="1978" HPOS="2349"/>
+<String CONTENT="&#169;" HEIGHT="38" WIDTH="38" VPOS="1978" HPOS="2425"/>
+<SP HEIGHT="39" WIDTH="36" VPOS="1978" HPOS="2464"/>
+<String CONTENT="Ohio" HEIGHT="40" WIDTH="131" VPOS="1978" HPOS="2501"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="1980" HPOS="2633"/>
+<String CS="1" CONTENT="Dept."/>
+<SP HEIGHT="32" WIDTH="45" VPOS="1988" HPOS="2834"/>
+<String CONTENT="of" HEIGHT="39" WIDTH="66" VPOS="1979" HPOS="2880"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="1161" VPOS="2034" HPOS="1774">
+<String CONTENT="Education" HEIGHT="41" WIDTH="308" VPOS="2037" HPOS="1774"/>
+<SP HEIGHT="39" WIDTH="37" VPOS="2037" HPOS="2083"/>
+<String CONTENT="&amp;" HEIGHT="36" WIDTH="31" VPOS="2037" HPOS="2121"/>
+<SP HEIGHT="38" WIDTH="37" VPOS="2037" HPOS="2153"/>
+<String CONTENT="Ohio" HEIGHT="41" WIDTH="129" VPOS="2036" HPOS="2191"/>
+<SP HEIGHT="39" WIDTH="40" VPOS="2037" HPOS="2321"/>
+<String CONTENT="Auditor" HEIGHT="41" WIDTH="237" VPOS="2036" HPOS="2362"/>
+<SP HEIGHT="29" WIDTH="38" VPOS="2047" HPOS="2600"/>
+<String CONTENT="of" HEIGHT="39" WIDTH="64" VPOS="2037" HPOS="2639"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="2037" HPOS="2704"/>
+<String CONTENT="State;" HEIGHT="49" WIDTH="191" VPOS="2036" HPOS="2744"/>
+</TextLine>
+<TextLine HEIGHT="64" WIDTH="575" VPOS="2083" HPOS="1774">
+<String CONTENT="24May73;" HEIGHT="59" WIDTH="262" VPOS="2087" HPOS="1774"/>
+<SP HEIGHT="53" WIDTH="47" VPOS="2094" HPOS="2037"/>
+<!-- cceid 20AAD2F3-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A437746." HEIGHT="59" WIDTH="264" VPOS="2084" HPOS="2085"/>
+</TextLine>
+<TextLine HEIGHT="42" WIDTH="776" VPOS="2207" HPOS="1655">
+<String CONTENT="OHIO" HEIGHT="39" WIDTH="131" VPOS="2207" HPOS="1655"/>
+<SP HEIGHT="39" WIDTH="40" VPOS="2207" HPOS="1787"/>
+<String CONTENT="FAMILY" HEIGHT="39" WIDTH="201" VPOS="2207" HPOS="1828"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="2207" HPOS="2030"/>
+<String CONTENT="HISTORIANS." HEIGHT="41" WIDTH="363" VPOS="2208" HPOS="2068"/>
+</TextLine>
+<TextLine HEIGHT="59" WIDTH="1233" VPOS="2257" HPOS="1725">
+<String CONTENT="Index" HEIGHT="39" WIDTH="166" VPOS="2267" HPOS="1725"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="2268" HPOS="1892"/>
+<String CONTENT="to" HEIGHT="38" WIDTH="59" VPOS="2268" HPOS="1932"/>
+<SP HEIGHT="39" WIDTH="42" VPOS="2267" HPOS="1992"/>
+<String CONTENT="the" HEIGHT="39" WIDTH="94" VPOS="2267" HPOS="2035"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="2268" HPOS="2130"/>
+<String CONTENT="1850" HEIGHT="55" WIDTH="131" VPOS="2258" HPOS="2170"/>
+<SP HEIGHT="38" WIDTH="41" VPOS="2268" HPOS="2302"/>
+<String CONTENT="Federal" HEIGHT="39" WIDTH="234" VPOS="2268" HPOS="2344"/>
+<SP HEIGHT="47" WIDTH="37" VPOS="2269" HPOS="2579"/>
+<String CONTENT="population" HEIGHT="49" WIDTH="341" VPOS="2267" HPOS="2617"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="1094" VPOS="2324" HPOS="1793">
+<String CONTENT="census" HEIGHT="30" WIDTH="197" VPOS="2336" HPOS="1793"/>
+<SP HEIGHT="30" WIDTH="40" VPOS="2336" HPOS="1991"/>
+<String CONTENT="of" HEIGHT="41" WIDTH="64" VPOS="2325" HPOS="2032"/>
+<SP HEIGHT="40" WIDTH="41" VPOS="2326" HPOS="2097"/>
+<String CONTENT="Ohio." HEIGHT="43" WIDTH="154" VPOS="2326" HPOS="2139"/>
+<SP HEIGHT="42" WIDTH="83" VPOS="2327" HPOS="2294"/>
+<String CONTENT="Compiled" HEIGHT="52" WIDTH="269" VPOS="2325" HPOS="2378"/>
+<SP HEIGHT="39" WIDTH="37" VPOS="2327" HPOS="2648"/>
+<String CONTENT="by" HEIGHT="51" WIDTH="66" VPOS="2327" HPOS="2686"/>
+<SP HEIGHT="50" WIDTH="39" VPOS="2328" HPOS="2753"/>
+<String CONTENT="the" HEIGHT="40" WIDTH="94" VPOS="2327" HPOS="2793"/>
+</TextLine>
+<TextLine HEIGHT="52" WIDTH="1029" VPOS="2384" HPOS="1792">
+<String CONTENT="Ohio" HEIGHT="38" WIDTH="132" VPOS="2386" HPOS="1792"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="2386" HPOS="1925"/>
+<String CONTENT="Family" HEIGHT="50" WIDTH="201" VPOS="2385" HPOS="1966"/>
+<SP HEIGHT="49" WIDTH="37" VPOS="2386" HPOS="2168"/>
+<String CONTENT="Historians" HEIGHT="40" WIDTH="336" VPOS="2386" HPOS="2206"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="2386" HPOS="2543"/>
+<String CONTENT="&amp;" HEIGHT="37" WIDTH="31" VPOS="2386" HPOS="2583"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="2386" HPOS="2615"/>
+<String CONTENT="their" HEIGHT="39" WIDTH="166" VPOS="2387" HPOS="2655"/>
+</TextLine>
+<TextLine HEIGHT="53" WIDTH="1291" VPOS="2442" HPOS="1794">
+<String CONTENT="friends." HEIGHT="40" WIDTH="258" VPOS="2444" HPOS="1794"/>
+<SP HEIGHT="40" WIDTH="83" VPOS="2444" HPOS="2053"/>
+<String CONTENT="Pub." HEIGHT="40" WIDTH="123" VPOS="2444" HPOS="2137"/>
+<SP HEIGHT="40" WIDTH="46" VPOS="2444" HPOS="2261"/>
+<String CONTENT="by" HEIGHT="49" WIDTH="66" VPOS="2444" HPOS="2308"/>
+<SP HEIGHT="48" WIDTH="36" VPOS="2445" HPOS="2375"/>
+<String CONTENT="Lida" HEIGHT="40" WIDTH="135" VPOS="2444" HPOS="2412"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="2444" HPOS="2548"/>
+<String CONTENT="Flint" HEIGHT="39" WIDTH="163" VPOS="2444" HPOS="2586"/>
+<SP HEIGHT="37" WIDTH="40" VPOS="2446" HPOS="2750"/>
+<String CONTENT="Harshman." HEIGHT="40" WIDTH="294" VPOS="2446" HPOS="2791"/>
+</TextLine>
+<TextLine HEIGHT="59" WIDTH="1060" VPOS="2493" HPOS="1861" CS="1">
+<String CS="1" CONTENT="1098" HEIGHT="55" WIDTH="63" VPOS="2493" HPOS="1861"/>
+<SP HEIGHT="57" WIDTH="36" VPOS="2493" HPOS="1925"/>
+<String CONTENT="p." HEIGHT="39" WIDTH="57" VPOS="2511" HPOS="1962"/>
+<SP HEIGHT="42" WIDTH="80" VPOS="2502" HPOS="2020"/>
+<String CONTENT="Appl." HEIGHT="48" WIDTH="159" VPOS="2502" HPOS="2101"/>
+<SP HEIGHT="29" WIDTH="48" VPOS="2513" HPOS="2261"/>
+<String CONTENT="author:" HEIGHT="39" WIDTH="226" VPOS="2503" HPOS="2310"/>
+<SP HEIGHT="38" WIDTH="47" VPOS="2503" HPOS="2537"/>
+<String CONTENT="Lida" HEIGHT="39" WIDTH="134" VPOS="2503" HPOS="2585"/>
+<SP HEIGHT="39" WIDTH="37" VPOS="2503" HPOS="2720"/>
+<String CONTENT="Flint" HEIGHT="39" WIDTH="163" VPOS="2503" HPOS="2758"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="1123" VPOS="2557" HPOS="1793">
+<String CONTENT="Harshman." HEIGHT="40" WIDTH="294" VPOS="2560" HPOS="1793"/>
+<SP HEIGHT="42" WIDTH="78" VPOS="2558" HPOS="2088"/>
+<String CONTENT="&#169;" HEIGHT="39" WIDTH="37" VPOS="2558" HPOS="2167"/>
+<SP HEIGHT="40" WIDTH="34" VPOS="2558" HPOS="2205"/>
+<String CONTENT="Lida" HEIGHT="38" WIDTH="133" VPOS="2560" HPOS="2240"/>
+<SP HEIGHT="38" WIDTH="38" VPOS="2560" HPOS="2374"/>
+<String CONTENT="Flint" HEIGHT="41" WIDTH="165" VPOS="2559" HPOS="2413"/>
+<SP HEIGHT="37" WIDTH="40" VPOS="2561" HPOS="2579"/>
+<String CONTENT="Harshman;" HEIGHT="47" WIDTH="296" VPOS="2561" HPOS="2620"/>
+</TextLine>
+<TextLine HEIGHT="61" WIDTH="1158" VPOS="2610" HPOS="1792" CS="1">
+<String CONTENT="5Jan73" HEIGHT="47" WIDTH="200" VPOS="2617" HPOS="1792"/>
+<SP HEIGHT="59" WIDTH="48" VPOS="2610" HPOS="1993"/>
+<String CONTENT="(in" HEIGHT="60" WIDTH="93" VPOS="2610" HPOS="2041"/>
+<SP HEIGHT="28" WIDTH="35" VPOS="2627" HPOS="2134"/>
+<String CONTENT="notice:" HEIGHT="40" WIDTH="227" VPOS="2617" HPOS="2170"/>
+<SP HEIGHT="39" WIDTH="48" VPOS="2618" HPOS="2398"/>
+<String CONTENT="1972);" HEIGHT="60" WIDTH="195" VPOS="2611" HPOS="2447"/>
+<SP HEIGHT="48" WIDTH="43" VPOS="2618" HPOS="2642"/>
+<!-- cceid 20AE496A-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A401100." HEIGHT="45" WIDTH="263" VPOS="2618" HPOS="2686"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="984" VPOS="2736" HPOS="1675" CS="1">
+<String CONTENT="OHIO" HEIGHT="38" WIDTH="134" VPOS="2738" HPOS="1675"/>
+<SP HEIGHT="39" WIDTH="35" VPOS="2738" HPOS="1810"/>
+<String CONTENT="FORMS." HEIGHT="39" WIDTH="192" VPOS="2738" HPOS="1846"/>
+<SP HEIGHT="42" WIDTH="85" VPOS="2736" HPOS="2039"/>
+<String CONTENT="1973" HEIGHT="46" WIDTH="126" VPOS="2737" HPOS="2125"/>
+<SP HEIGHT="43" WIDTH="45" VPOS="2738" HPOS="2252"/>
+<String CONTENT="supplement." HEIGHT="50" WIDTH="361" VPOS="2737" HPOS="2298"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="1266" VPOS="2796" HPOS="1744">
+<String CONTENT="Rochester," HEIGHT="48" WIDTH="330" VPOS="2796" HPOS="1744"/>
+<SP HEIGHT="44" WIDTH="49" VPOS="2800" HPOS="2075"/>
+<String CONTENT="N.Y.," HEIGHT="45" WIDTH="153" VPOS="2800" HPOS="2125"/>
+<SP HEIGHT="46" WIDTH="50" VPOS="2799" HPOS="2279"/>
+<String CONTENT="Lawyers" HEIGHT="47" WIDTH="233" VPOS="2799" HPOS="2330"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="2799" HPOS="2564"/>
+<String CONTENT="Co-operative" HEIGHT="49" WIDTH="405" VPOS="2798" HPOS="2605"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="983" VPOS="2854" HPOS="1744">
+<String CONTENT="Pub." HEIGHT="39" WIDTH="121" VPOS="2855" HPOS="1744"/>
+<SP HEIGHT="38" WIDTH="48" VPOS="2856" HPOS="1866"/>
+<String CONTENT="Co." HEIGHT="38" WIDTH="89" VPOS="2856" HPOS="1915"/>
+<SP HEIGHT="46" WIDTH="82" VPOS="2855" HPOS="2005"/>
+<String CONTENT="5" HEIGHT="45" WIDTH="25" VPOS="2856" HPOS="2088"/>
+<SP HEIGHT="45" WIDTH="43" VPOS="2856" HPOS="2114"/>
+<String CONTENT="v." HEIGHT="28" WIDTH="53" VPOS="2865" HPOS="2158"/>
+<SP HEIGHT="38" WIDTH="84" VPOS="2857" HPOS="2212"/>
+<String CONTENT="Appl." HEIGHT="49" WIDTH="155" VPOS="2855" HPOS="2297"/>
+<SP HEIGHT="31" WIDTH="49" VPOS="2864" HPOS="2453"/>
+<String CONTENT="author;" HEIGHT="45" WIDTH="224" VPOS="2855" HPOS="2503"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="1198" VPOS="2912" HPOS="1747">
+<String CONTENT="editorial" HEIGHT="39" WIDTH="299" VPOS="2913" HPOS="1747"/>
+<SP HEIGHT="36" WIDTH="44" VPOS="2914" HPOS="2047"/>
+<String CONTENT="staff" HEIGHT="38" WIDTH="165" VPOS="2913" HPOS="2092"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="2914" HPOS="2258"/>
+<String CONTENT="of" HEIGHT="39" WIDTH="63" VPOS="2914" HPOS="2297"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="2914" HPOS="2361"/>
+<String CONTENT="Bancroft-Whitney" HEIGHT="50" WIDTH="546" VPOS="2913" HPOS="2399"/>
+</TextLine>
+<TextLine HEIGHT="52" WIDTH="1261" VPOS="2970" HPOS="1744">
+<String CONTENT="Co." HEIGHT="37" WIDTH="87" VPOS="2972" HPOS="1744"/>
+<SP HEIGHT="37" WIDTH="81" VPOS="2971" HPOS="1832"/>
+<String CONTENT="&#169;" HEIGHT="37" WIDTH="37" VPOS="2971" HPOS="1914"/>
+<SP HEIGHT="39" WIDTH="32" VPOS="2971" HPOS="1952"/>
+<String CONTENT="Lawyers" HEIGHT="45" WIDTH="233" VPOS="2973" HPOS="1985"/>
+<SP HEIGHT="37" WIDTH="40" VPOS="2973" HPOS="2219"/>
+<String CONTENT="Co-operative" HEIGHT="49" WIDTH="409" VPOS="2971" HPOS="2260"/>
+<SP HEIGHT="36" WIDTH="37" VPOS="2975" HPOS="2670"/>
+<String CONTENT="Pub." HEIGHT="38" WIDTH="122" VPOS="2973" HPOS="2708"/>
+<SP HEIGHT="37" WIDTH="47" VPOS="2975" HPOS="2831"/>
+<String CONTENT="Co.;" HEIGHT="47" WIDTH="126" VPOS="2975" HPOS="2879"/>
+</TextLine>
+<TextLine HEIGHT="57" WIDTH="508" VPOS="3019" HPOS="1743" CS="1">
+<String CONTENT="5Mar73;" HEIGHT="47" WIDTH="230" VPOS="3028" HPOS="1743"/>
+<SP HEIGHT="46" WIDTH="44" VPOS="3029" HPOS="1973"/>
+<!-- cceid 20B17AA8-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A415115." HEIGHT="55" WIDTH="233" VPOS="3019" HPOS="2018"/>
+</TextLine>
+<TextLine HEIGHT="46" WIDTH="1229" VPOS="3136" HPOS="1672">
+<String CONTENT="OHIO" HEIGHT="39" WIDTH="132" VPOS="3137" HPOS="1672"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="3137" HPOS="1805"/>
+<String CONTENT="FORMS" HEIGHT="39" WIDTH="167" VPOS="3137" HPOS="1844"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="3137" HPOS="2012"/>
+<String CONTENT="OF" HEIGHT="38" WIDTH="65" VPOS="3138" HPOS="2051"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="3138" HPOS="2117"/>
+<String CONTENT="PLEADING" HEIGHT="39" WIDTH="268" VPOS="3138" HPOS="2157"/>
+<SP HEIGHT="37" WIDTH="38" VPOS="3139" HPOS="2426"/>
+<String CONTENT="AND" HEIGHT="39" WIDTH="101" VPOS="3138" HPOS="2465"/>
+<SP HEIGHT="36" WIDTH="37" VPOS="3140" HPOS="2567"/>
+<String CONTENT="PRACTICE." HEIGHT="44" WIDTH="296" VPOS="3138" HPOS="2605"/>
+</TextLine>
+<TextLine HEIGHT="65" WIDTH="1239" VPOS="3186" HPOS="1740">
+<String CONTENT="Vol.7A," HEIGHT="53" WIDTH="229" VPOS="3195" HPOS="1740"/>
+<SP HEIGHT="51" WIDTH="43" VPOS="3197" HPOS="1970"/>
+<String CONTENT="by" HEIGHT="49" WIDTH="69" VPOS="3197" HPOS="2014"/>
+<SP HEIGHT="49" WIDTH="37" VPOS="3197" HPOS="2084"/>
+<String CONTENT="Paul" HEIGHT="40" WIDTH="132" VPOS="3197" HPOS="2122"/>
+<SP HEIGHT="40" WIDTH="34" VPOS="3196" HPOS="2255"/>
+<String CONTENT="W." HEIGHT="43" WIDTH="59" VPOS="3196" HPOS="2290"/>
+<SP HEIGHT="42" WIDTH="44" VPOS="3197" HPOS="2350"/>
+<String CONTENT="Brown." HEIGHT="42" WIDTH="195" VPOS="3197" HPOS="2395"/>
+<SP HEIGHT="41" WIDTH="79" VPOS="3198" HPOS="2591"/>
+<String CONTENT="Vol.8," HEIGHT="61" WIDTH="195" VPOS="3188" HPOS="2671"/>
+<SP HEIGHT="53" WIDTH="43" VPOS="3196" HPOS="2867"/>
+<String CONTENT="by" HEIGHT="53" WIDTH="68" VPOS="3196" HPOS="2911"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="1273" VPOS="3252" HPOS="1738">
+<String CONTENT="William" HEIGHT="41" WIDTH="243" VPOS="3254" HPOS="1738"/>
+<SP HEIGHT="41" WIDTH="31" VPOS="3253" HPOS="1982"/>
+<String CONTENT="W." HEIGHT="44" WIDTH="57" VPOS="3253" HPOS="2014"/>
+<SP HEIGHT="42" WIDTH="45" VPOS="3255" HPOS="2072"/>
+<String CONTENT="Milligan." HEIGHT="51" WIDTH="300" VPOS="3254" HPOS="2118"/>
+<SP HEIGHT="43" WIDTH="81" VPOS="3255" HPOS="2419"/>
+<String CONTENT="1972" HEIGHT="50" WIDTH="131" VPOS="3253" HPOS="2501"/>
+<SP HEIGHT="40" WIDTH="41" VPOS="3256" HPOS="2633"/>
+<String CONTENT="supplement" HEIGHT="52" WIDTH="336" VPOS="3255" HPOS="2675"/>
+</TextLine>
+<TextLine HEIGHT="66" WIDTH="1224" VPOS="3303" HPOS="1747" CS="1">
+<String CONTENT="[&amp;" HEIGHT="54" WIDTH="57" VPOS="3309" HPOS="1747"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="3313" HPOS="1805"/>
+<String CONTENT="revision" HEIGHT="41" WIDTH="271" VPOS="3313" HPOS="1845"/>
+<SP HEIGHT="38" WIDTH="38" VPOS="3314" HPOS="2117"/>
+<String CONTENT="to" HEIGHT="39" WIDTH="62" VPOS="3314" HPOS="2156"/>
+<SP HEIGHT="30" WIDTH="37" VPOS="3323" HPOS="2219"/>
+<String CONTENT="v.1-6" HEIGHT="51" WIDTH="167" VPOS="3304" HPOS="2257"/>
+<SP HEIGHT="62" WIDTH="47" VPOS="3304" HPOS="2425"/>
+<String CONTENT="(release" HEIGHT="60" WIDTH="262" VPOS="3307" HPOS="2473"/>
+<SP HEIGHT="28" WIDTH="38" VPOS="3325" HPOS="2736"/>
+<String CONTENT="no.3)]" HEIGHT="62" WIDTH="196" VPOS="3307" HPOS="2775"/>
+</TextLine>
+<TextLine HEIGHT="65" WIDTH="1302" VPOS="3362" HPOS="1738" CS="1">
+<String CONTENT="New" HEIGHT="40" WIDTH="103" VPOS="3371" HPOS="1738"/>
+<SP HEIGHT="40" WIDTH="31" VPOS="3371" HPOS="1842"/>
+<String CONTENT="York," HEIGHT="51" WIDTH="164" VPOS="3371" HPOS="1874"/>
+<SP HEIGHT="53" WIDTH="44" VPOS="3370" HPOS="2039"/>
+<String CONTENT="M." HEIGHT="44" WIDTH="56" VPOS="3371" HPOS="2084"/>
+<SP HEIGHT="44" WIDTH="46" VPOS="3371" HPOS="2141"/>
+<String CONTENT="Bender." HEIGHT="44" WIDTH="229" VPOS="3371" HPOS="2188"/>
+<SP HEIGHT="44" WIDTH="81" VPOS="3371" HPOS="2418"/>
+<String CONTENT="2" HEIGHT="40" WIDTH="30" VPOS="3371" HPOS="2500"/>
+<SP HEIGHT="40" WIDTH="36" VPOS="3372" HPOS="2531"/>
+<String CONTENT="v." HEIGHT="31" WIDTH="56" VPOS="3383" HPOS="2568"/>
+<SP HEIGHT="60" WIDTH="54" VPOS="3365" HPOS="2625"/>
+<String CONTENT="(looseleaf)" HEIGHT="63" WIDTH="360" VPOS="3364" HPOS="2680"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="1208" VPOS="3429" HPOS="1738">
+<String CONTENT="&amp;" HEIGHT="38" WIDTH="31" VPOS="3430" HPOS="1738"/>
+<SP HEIGHT="40" WIDTH="39" VPOS="3430" HPOS="1770"/>
+<String CONTENT="looseleaf." HEIGHT="43" WIDTH="331" VPOS="3430" HPOS="1810"/>
+<SP HEIGHT="42" WIDTH="80" VPOS="3431" HPOS="2142"/>
+<String CONTENT="Appl." HEIGHT="51" WIDTH="160" VPOS="3431" HPOS="2223"/>
+<SP HEIGHT="31" WIDTH="46" VPOS="3442" HPOS="2384"/>
+<String CONTENT="author:" HEIGHT="42" WIDTH="227" VPOS="3430" HPOS="2431"/>
+<SP HEIGHT="40" WIDTH="44" VPOS="3431" HPOS="2659"/>
+<String CONTENT="Matthew" HEIGHT="41" WIDTH="242" VPOS="3431" HPOS="2704"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="1300" VPOS="3489" HPOS="1737" CS="1">
+<String CONTENT="Bender" HEIGHT="40" WIDTH="205" VPOS="3490" HPOS="1738"/>
+<SP HEIGHT="39" WIDTH="34" VPOS="3491" HPOS="1944"/>
+<String CONTENT="&amp;" HEIGHT="38" WIDTH="32" VPOS="3491" HPOS="1979"/>
+<SP HEIGHT="40" WIDTH="38" VPOS="3490" HPOS="2012"/>
+<String CONTENT="Co.," HEIGHT="51" WIDTH="126" VPOS="3491" HPOS="2050"/>
+<SP HEIGHT="52" WIDTH="48" VPOS="3490" HPOS="2176"/>
+<String CONTENT="Inc.," HEIGHT="52" WIDTH="159" VPOS="3490" HPOS="2224"/>
+<SP HEIGHT="40" WIDTH="49" VPOS="3502" HPOS="2383"/>
+<String CONTENT="employer" HEIGHT="50" WIDTH="272" VPOS="3490" HPOS="2432"/>
+<SP HEIGHT="38" WIDTH="37" VPOS="3492" HPOS="2705"/>
+<String CONTENT="for" HEIGHT="39" WIDTH="97" VPOS="3492" HPOS="2743"/>
+<SP HEIGHT="38" WIDTH="36" VPOS="3493" HPOS="2841"/>
+<String CONTENT="hire." HEIGHT="42" WIDTH="159" VPOS="3491" HPOS="2878"/>
+</TextLine>
+<TextLine HEIGHT="58" WIDTH="1302" VPOS="3542" HPOS="1735" CS="1">
+<String CONTENT="&#169;" HEIGHT="40" WIDTH="39" VPOS="3546" HPOS="1735"/>
+<SP HEIGHT="40" WIDTH="30" VPOS="3546" HPOS="1775"/>
+<String CONTENT="Matthew" HEIGHT="41" WIDTH="241" VPOS="3547" HPOS="1806"/>
+<SP HEIGHT="40" WIDTH="34" VPOS="3547" HPOS="2048"/>
+<String CONTENT="Bender" HEIGHT="40" WIDTH="205" VPOS="3547" HPOS="2083"/>
+<SP HEIGHT="41" WIDTH="34" VPOS="3546" HPOS="2289"/>
+<String CONTENT="&amp;" HEIGHT="38" WIDTH="31" VPOS="3546" HPOS="2324"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="3546" HPOS="2356"/>
+<String CONTENT="Co.," HEIGHT="52" WIDTH="125" VPOS="3547" HPOS="2396"/>
+<SP HEIGHT="52" WIDTH="47" VPOS="3547" HPOS="2522"/>
+<String CS="1" CONTENT="Inc.;" HEIGHT="50" WIDTH="157" VPOS="3547" HPOS="2570"/>
+<SP HEIGHT="50" WIDTH="46" VPOS="3547" HPOS="2728"/>
+<String CONTENT="22Dec72;" HEIGHT="53" WIDTH="262" VPOS="3544" HPOS="2775"/>
+</TextLine>
+<TextLine HEIGHT="52" WIDTH="264" VPOS="3601" HPOS="1739">
+<!-- cceid 20B4F97D-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A400471." HEIGHT="52" WIDTH="264" VPOS="3601" HPOS="1739"/>
+</TextLine>
+<TextLine HEIGHT="57" WIDTH="1087" VPOS="3694" HPOS="1662" STYLEREFS="StyleId-8F5BAEF0-3B71-4CAC-B80F-4AEF7F806D06-">
+<String CONTENT="OHIO" HEIGHT="49" WIDTH="130" VPOS="3694" HPOS="1662"/>
+<SP HEIGHT="45" WIDTH="40" VPOS="3698" HPOS="1793"/>
+<String CONTENT="INDEPENDENT" HEIGHT="48" WIDTH="371" VPOS="3698" HPOS="1834"/>
+<SP HEIGHT="43" WIDTH="38" VPOS="3703" HPOS="2206"/>
+<String CONTENT="TELEPHONE" HEIGHT="46" WIDTH="308" VPOS="3703" HPOS="2245"/>
+<SP HEIGHT="45" WIDTH="36" VPOS="3704" HPOS="2554"/>
+<String CONTENT="ASSN." HEIGHT="47" WIDTH="158" VPOS="3704" HPOS="2591"/>
+</TextLine>
+<TextLine HEIGHT="59" WIDTH="1193" VPOS="3759" HPOS="1728" CS="1">
+<String CONTENT="The" HEIGHT="44" WIDTH="97" VPOS="3759" HPOS="1728"/>
+<SP HEIGHT="42" WIDTH="39" VPOS="3762" HPOS="1826"/>
+<String CONTENT="Mercury" HEIGHT="52" WIDTH="238" VPOS="3762" HPOS="1866"/>
+<SP HEIGHT="48" WIDTH="37" VPOS="3766" HPOS="2105"/>
+<String CONTENT="Telephone" HEIGHT="51" WIDTH="302" VPOS="3764" HPOS="2143"/>
+<SP HEIGHT="41" WIDTH="42" VPOS="3766" HPOS="2446"/>
+<String CONTENT="Company," HEIGHT="52" WIDTH="260" VPOS="3766" HPOS="2489"/>
+<SP HEIGHT="48" WIDTH="48" VPOS="3770" HPOS="2750"/>
+<String CONTENT="Inc." HEIGHT="41" WIDTH="122" VPOS="3770" HPOS="2799"/>
+</TextLine>
+<TextLine HEIGHT="57" WIDTH="917" VPOS="3821" HPOS="1798">
+<String CONTENT="See" HEIGHT="39" WIDTH="96" VPOS="3821" HPOS="1798"/>
+<SP HEIGHT="38" WIDTH="37" VPOS="3823" HPOS="1895"/>
+<String CONTENT="DEHAYES," HEIGHT="54" WIDTH="264" VPOS="3821" HPOS="1933"/>
+<SP HEIGHT="50" WIDTH="43" VPOS="3825" HPOS="2198"/>
+<String CONTENT="DANIEL" HEIGHT="42" WIDTH="207" VPOS="3824" HPOS="2242"/>
+<SP HEIGHT="40" WIDTH="33" VPOS="3826" HPOS="2450"/>
+<String CONTENT="W.," HEIGHT="52" WIDTH="94" VPOS="3826" HPOS="2484"/>
+<SP HEIGHT="50" WIDTH="46" VPOS="3828" HPOS="2579"/>
+<String CONTENT="SR." HEIGHT="42" WIDTH="89" VPOS="3828" HPOS="2626"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="846" VPOS="3913" HPOS="1645">
+<String CONTENT="OHIO" HEIGHT="42" WIDTH="132" VPOS="3913" HPOS="1645"/>
+<SP HEIGHT="43" WIDTH="39" VPOS="3914" HPOS="1778"/>
+<String CONTENT="JUDICIAL" HEIGHT="44" WIDTH="271" VPOS="3916" HPOS="1818"/>
+<SP HEIGHT="40" WIDTH="34" VPOS="3920" HPOS="2090"/>
+<String CONTENT="CONFERENCE." HEIGHT="48" WIDTH="366" VPOS="3920" HPOS="2125"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="1133" VPOS="3974" HPOS="1711">
+<String CONTENT="Ohio" HEIGHT="40" WIDTH="134" VPOS="3974" HPOS="1711"/>
+<SP HEIGHT="49" WIDTH="41" VPOS="3977" HPOS="1845"/>
+<String CONTENT="jury" HEIGHT="50" WIDTH="131" VPOS="3977" HPOS="1886"/>
+<SP HEIGHT="51" WIDTH="40" VPOS="3977" HPOS="2017"/>
+<String CONTENT="instructions." HEIGHT="46" WIDTH="432" VPOS="3978" HPOS="2057"/>
+<SP HEIGHT="40" WIDTH="83" VPOS="3985" HPOS="2489"/>
+<String CONTENT="See" HEIGHT="39" WIDTH="97" VPOS="3986" HPOS="2572"/>
+<SP HEIGHT="39" WIDTH="44" VPOS="3986" HPOS="2669"/>
+<String CONTENT="OHIO" HEIGHT="41" WIDTH="131" VPOS="3986" HPOS="2713"/>
+</TextLine>
+<TextLine HEIGHT="109" WIDTH="997" VPOS="4035" HPOS="1778" CS="1">
+<String CONTENT="JUDICIAL" HEIGHT="42" WIDTH="270" VPOS="4035" HPOS="1782"/>
+<SP HEIGHT="39" WIDTH="36" VPOS="4038" HPOS="2053"/>
+<String CONTENT="CONFERENCE." HEIGHT="46" WIDTH="367" VPOS="4038" HPOS="2090"/>
+<SP HEIGHT="41" WIDTH="81" VPOS="4044" HPOS="2458"/>
+<String CONTENT="JURY" HEIGHT="39" WIDTH="132" VPOS="4045" HPOS="2540"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="4046" HPOS="2673"/>
+<String CONTENT="INSTRUCTIONS" HEIGHT="94" WIDTH="997" VPOS="4044" HPOS="1778"/>
+<SP HEIGHT="40" WIDTH="42" VPOS="4097" HPOS="2115"/>
+<String CONTENT="COMMITTEE." HEIGHT="45" WIDTH="332" VPOS="4098" HPOS="2158"/>
+</TextLine>
+<TextLine HEIGHT="49" WIDTH="1073" VPOS="4206" HPOS="1681">
+<String CONTENT="OHIO" HEIGHT="39" WIDTH="133" VPOS="4206" HPOS="1681"/>
+<SP HEIGHT="40" WIDTH="36" VPOS="4207" HPOS="1815"/>
+<String CONTENT="JUDICIAL" HEIGHT="40" WIDTH="275" VPOS="4208" HPOS="1852"/>
+<SP HEIGHT="39" WIDTH="34" VPOS="4210" HPOS="2128"/>
+<String CONTENT="CONFERENCE." HEIGHT="44" WIDTH="369" VPOS="4211" HPOS="2163"/>
+<SP HEIGHT="41" WIDTH="80" VPOS="4214" HPOS="2533"/>
+<String CONTENT="JURY" HEIGHT="39" WIDTH="140" VPOS="4214" HPOS="2614"/>
+</TextLine>
+<TextLine HEIGHT="48" WIDTH="779" VPOS="4265" HPOS="1753">
+<String CONTENT="INSTRUCTIONS" HEIGHT="43" WIDTH="404" VPOS="4265" HPOS="1753"/>
+<SP HEIGHT="37" WIDTH="39" VPOS="4270" HPOS="2158"/>
+<String CONTENT="COMMITTEE." HEIGHT="43" WIDTH="334" VPOS="4270" HPOS="2198"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1056" VPOS="4322" HPOS="1750" CS="1">
+<String CONTENT="Ohio" HEIGHT="39" WIDTH="132" VPOS="4322" HPOS="1750"/>
+<SP HEIGHT="49" WIDTH="39" VPOS="4324" HPOS="1883"/>
+<String CONTENT="jury" HEIGHT="51" WIDTH="138" VPOS="4324" HPOS="1923"/>
+<SP HEIGHT="50" WIDTH="35" VPOS="4325" HPOS="2062"/>
+<String CONTENT="instructions." HEIGHT="44" WIDTH="433" VPOS="4325" HPOS="2098"/>
+<SP HEIGHT="39" WIDTH="77" VPOS="4330" HPOS="2532"/>
+<String CS="1" CONTENT="Vol.3." HEIGHT="48" WIDTH="196" VPOS="4330" HPOS="2610"/>
+</TextLine>
+<TextLine HEIGHT="53" WIDTH="1023" VPOS="4381" HPOS="1816" CS="1">
+<String CONTENT="Cincinnati," HEIGHT="52" WIDTH="368" VPOS="4381" HPOS="1816"/>
+<SP HEIGHT="48" WIDTH="43" VPOS="4385" HPOS="2185"/>
+<String CONTENT="W." HEIGHT="41" WIDTH="59" VPOS="4385" HPOS="2229"/>
+<SP HEIGHT="40" WIDTH="45" VPOS="4386" HPOS="2289"/>
+<String CONTENT="H." HEIGHT="41" WIDTH="57" VPOS="4386" HPOS="2335"/>
+<SP HEIGHT="40" WIDTH="43" VPOS="4387" HPOS="2393"/>
+<String CONTENT="Anderson" HEIGHT="41" WIDTH="275" VPOS="4384" HPOS="2437"/>
+<SP HEIGHT="38" WIDTH="37" VPOS="4389" HPOS="2713"/>
+<String CONTENT="Co." HEIGHT="39" WIDTH="88" VPOS="4389" HPOS="2751"/>
+</TextLine>
+<TextLine HEIGHT="67" WIDTH="1195" VPOS="4429" HPOS="1816">
+<String CONTENT="443" HEIGHT="60" WIDTH="99" VPOS="4429" HPOS="1816"/>
+<SP HEIGHT="48" WIDTH="38" VPOS="4442" HPOS="1915"/>
+<String CONTENT="p." HEIGHT="41" WIDTH="59" VPOS="4449" HPOS="1953"/>
+<SP HEIGHT="45" WIDTH="73" VPOS="4438" HPOS="2012"/>
+<String CONTENT="&#169;" HEIGHT="39" WIDTH="40" VPOS="4439" HPOS="2085"/>
+<SP HEIGHT="42" WIDTH="39" VPOS="4439" HPOS="2125"/>
+<String CONTENT="Ohio" HEIGHT="39" WIDTH="131" VPOS="4442" HPOS="2164"/>
+<SP HEIGHT="39" WIDTH="40" VPOS="4444" HPOS="2295"/>
+<String CONTENT="Judicial" HEIGHT="41" WIDTH="274" VPOS="4443" HPOS="2335"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="4444" HPOS="2609"/>
+<String CONTENT="Conference;" HEIGHT="51" WIDTH="365" VPOS="4445" HPOS="2646"/>
+</TextLine>
+<TextLine HEIGHT="59" WIDTH="536" VPOS="4490" HPOS="1819">
+<String CONTENT="2May73;" HEIGHT="53" WIDTH="225" VPOS="4496" HPOS="1819"/>
+<SP HEIGHT="48" WIDTH="44" VPOS="4501" HPOS="2045"/>
+<!-- cceid 20BE9C36-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A434848." HEIGHT="58" WIDTH="265" VPOS="4491" HPOS="2090"/>
+</TextLine>
+<TextLine HEIGHT="52" WIDTH="795" VPOS="4607" HPOS="1630" STYLEREFS="StyleId-D596DA76-F6A1-4DD9-961B-C2C7209258DF-" CS="1">
+<String CONTENT="OHIO." HEIGHT="39" WIDTH="153" VPOS="4608" HPOS="1630"/>
+<SP HEIGHT="39" WIDTH="85" VPOS="4608" HPOS="1784"/>
+<String CONTENT="LAWS," HEIGHT="50" WIDTH="158" VPOS="4607" HPOS="1870"/>
+<SP HEIGHT="50" WIDTH="48" VPOS="4608" HPOS="2029"/>
+<String CONTENT="STATUTES," HEIGHT="50" WIDTH="295" VPOS="4609" HPOS="2078"/>
+<SP HEIGHT="46" WIDTH="51" VPOS="4613" HPOS="2374"/>
+<String CS="1" CONTENT="ETC."/>
+</TextLine>
+<TextLine HEIGHT="109" WIDTH="1236" VPOS="4663" HPOS="1699" CS="1">
+<String CONTENT="Baldwin" HEIGHT="39" WIDTH="234" VPOS="4664" HPOS="1699"/>
+<SP HEIGHT="35" WIDTH="40" VPOS="4669" HPOS="1934"/>
+<String CONTENT="Ohio" HEIGHT="42" WIDTH="132" VPOS="4663" HPOS="1975"/>
+<SP HEIGHT="29" WIDTH="39" VPOS="4675" HPOS="2108"/>
+<String CONTENT="criminal" HEIGHT="38" WIDTH="268" VPOS="4666" HPOS="2148"/>
+<SP HEIGHT="37" WIDTH="43" VPOS="4667" HPOS="2417"/>
+<String CONTENT="law," HEIGHT="47" WIDTH="120" VPOS="4668" HPOS="2461"/>
+<SP HEIGHT="37" WIDTH="52" VPOS="4678" HPOS="2582"/>
+<String CONTENT="sixth" HEIGHT="36" WIDTH="162" VPOS="4670" HPOS="2635"/>
+<SP HEIGHT="33" WIDTH="40" VPOS="4673" HPOS="2798"/>
+<String CONTENT="edition;" HEIGHT="106" WIDTH="1161" VPOS="4666" HPOS="1774"/>
+<SP HEIGHT="40" WIDTH="47" VPOS="4730" HPOS="1927"/>
+<String CONTENT="a" HEIGHT="30" WIDTH="28" VPOS="4730" HPOS="1975"/>
+<SP HEIGHT="41" WIDTH="39" VPOS="4730" HPOS="2004"/>
+<String CONTENT="guide" HEIGHT="48" WIDTH="164" VPOS="4723" HPOS="2044"/>
+<SP HEIGHT="38" WIDTH="46" VPOS="4725" HPOS="2209"/>
+<String CONTENT="to" HEIGHT="38" WIDTH="56" VPOS="4725" HPOS="2256"/>
+<SP HEIGHT="37" WIDTH="39" VPOS="4727" HPOS="2313"/>
+<String CONTENT="Criminal" HEIGHT="42" WIDTH="270" VPOS="4723" HPOS="2353"/>
+<SP HEIGHT="38" WIDTH="43" VPOS="4725" HPOS="2624"/>
+<String CONTENT="law" HEIGHT="38" WIDTH="95" VPOS="4726" HPOS="2668"/>
+<SP HEIGHT="29" WIDTH="40" VPOS="4735" HPOS="2764"/>
+<String CONTENT="and" HEIGHT="39" WIDTH="97" VPOS="4726" HPOS="2805"/>
+</TextLine>
+<TextLine HEIGHT="50" WIDTH="1165" VPOS="4780" HPOS="1768">
+<String CONTENT="practice" HEIGHT="48" WIDTH="267" VPOS="4780" HPOS="1768"/>
+<SP HEIGHT="39" WIDTH="42" VPOS="4780" HPOS="2036"/>
+<String CONTENT="in" HEIGHT="39" WIDTH="64" VPOS="4781" HPOS="2079"/>
+<SP HEIGHT="37" WIDTH="36" VPOS="4786" HPOS="2144"/>
+<String CONTENT="Ohio." HEIGHT="41" WIDTH="157" VPOS="4782" HPOS="2181"/>
+<SP HEIGHT="37" WIDTH="86" VPOS="4783" HPOS="2339"/>
+<String CONTENT="1973" HEIGHT="47" WIDTH="126" VPOS="4783" HPOS="2426"/>
+<SP HEIGHT="45" WIDTH="43" VPOS="4784" HPOS="2553"/>
+<String CONTENT="cumulative" HEIGHT="38" WIDTH="336" VPOS="4784" HPOS="2597"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="1129" VPOS="4838" HPOS="1771">
+<String CONTENT="service." HEIGHT="37" WIDTH="255" VPOS="4838" HPOS="1771"/>
+<SP HEIGHT="39" WIDTH="82" VPOS="4839" HPOS="2027"/>
+<String CONTENT="A" HEIGHT="38" WIDTH="32" VPOS="4840" HPOS="2110"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="4840" HPOS="2143"/>
+<String CONTENT="special" HEIGHT="48" WIDTH="233" VPOS="4839" HPOS="2183"/>
+<SP HEIGHT="36" WIDTH="42" VPOS="4841" HPOS="2417"/>
+<String CONTENT="report" HEIGHT="48" WIDTH="197" VPOS="4841" HPOS="2460"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="4842" HPOS="2658"/>
+<String CONTENT="on" HEIGHT="30" WIDTH="64" VPOS="4850" HPOS="2699"/>
+<SP HEIGHT="38" WIDTH="45" VPOS="4842" HPOS="2764"/>
+<String CONTENT="the" HEIGHT="38" WIDTH="90" VPOS="4842" HPOS="2810"/>
+</TextLine>
+<TextLine HEIGHT="62" WIDTH="1200" VPOS="4886" HPOS="1770">
+<String CONTENT="1974" HEIGHT="54" WIDTH="130" VPOS="4886" HPOS="1770"/>
+<SP HEIGHT="49" WIDTH="38" VPOS="4886" HPOS="1900"/>
+<String CONTENT="Ohio" HEIGHT="41" WIDTH="135" VPOS="4895" HPOS="1938"/>
+<SP HEIGHT="30" WIDTH="38" VPOS="4904" HPOS="2073"/>
+<String CONTENT="criminal" HEIGHT="39" WIDTH="271" VPOS="4896" HPOS="2111"/>
+<SP HEIGHT="37" WIDTH="39" VPOS="4897" HPOS="2382"/>
+<String CONTENT="code." HEIGHT="41" WIDTH="160" VPOS="4897" HPOS="2421"/>
+<SP HEIGHT="37" WIDTH="84" VPOS="4901" HPOS="2581"/>
+<String CONTENT="A" HEIGHT="37" WIDTH="30" VPOS="4901" HPOS="2665"/>
+<SP HEIGHT="37" WIDTH="42" VPOS="4901" HPOS="2695"/>
+<String CONTENT="special" HEIGHT="50" WIDTH="233" VPOS="4898" HPOS="2737"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="1130" VPOS="4953" HPOS="1768">
+<String CONTENT="report" HEIGHT="46" WIDTH="198" VPOS="4953" HPOS="1768"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="4953" HPOS="1967"/>
+<String CONTENT="on" HEIGHT="31" WIDTH="63" VPOS="4961" HPOS="2008"/>
+<SP HEIGHT="36" WIDTH="45" VPOS="4955" HPOS="2072"/>
+<String CONTENT="the" HEIGHT="37" WIDTH="89" VPOS="4954" HPOS="2118"/>
+<SP HEIGHT="40" WIDTH="40" VPOS="4963" HPOS="2208"/>
+<String CONTENT="proposed" HEIGHT="49" WIDTH="272" VPOS="4955" HPOS="2249"/>
+<SP HEIGHT="41" WIDTH="38" VPOS="4956" HPOS="2522"/>
+<String CONTENT="Ohio" HEIGHT="41" WIDTH="132" VPOS="4956" HPOS="2561"/>
+<SP HEIGHT="29" WIDTH="40" VPOS="4965" HPOS="2694"/>
+<String CONTENT="rules" HEIGHT="38" WIDTH="163" VPOS="4956" HPOS="2735"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="826" VPOS="5010" HPOS="1767" CS="1">
+<String CONTENT="of" HEIGHT="38" WIDTH="62" VPOS="5010" HPOS="1767"/>
+<SP HEIGHT="36" WIDTH="39" VPOS="5010" HPOS="1830"/>
+<String CONTENT="criminal" HEIGHT="40" WIDTH="269" VPOS="5010" HPOS="1870"/>
+<SP HEIGHT="49" WIDTH="41" VPOS="5011" HPOS="2140"/>
+<String CONTENT="procedure," HEIGHT="48" WIDTH="329" VPOS="5013" HPOS="2182"/>
+<SP HEIGHT="35" WIDTH="81" VPOS="5017" HPOS="2512"/>
+<String CS="1" CONTENT="[illegible]]"/>
+</TextLine>
+<TextLine HEIGHT="43" WIDTH="1020" VPOS="5068" HPOS="1835" CS="1">
+<String CS="1" CONTENT="Banks" HEIGHT="33" WIDTH="62" VPOS="5069" HPOS="1835"/>
+<SP HEIGHT="20" WIDTH="12" VPOS="5079" HPOS="1930"/>
+<String CONTENT="-" HEIGHT="5" WIDTH="16" VPOS="5089" HPOS="1943"/>
+<SP HEIGHT="30" WIDTH="14" VPOS="5073" HPOS="1960"/>
+<String CS="1" CONTENT="Baldwin" HEIGHT="34" WIDTH="164" VPOS="5069" HPOS="2046"/>
+<SP HEIGHT="30" WIDTH="36" VPOS="5075" HPOS="2211"/>
+<String CS="1" CONTENT="Law" HEIGHT="30" WIDTH="98" VPOS="5075" HPOS="2248"/>
+<SP HEIGHT="29" WIDTH="39" VPOS="5077" HPOS="2347"/>
+<String CS="1" CONTENT="Pub." HEIGHT="31" WIDTH="88" VPOS="5074" HPOS="2421"/>
+<SP HEIGHT="29" WIDTH="49" VPOS="5077" HPOS="2510"/>
+<String CONTENT="Co." HEIGHT="29" WIDTH="88" VPOS="5077" HPOS="2560"/>
+<SP HEIGHT="36" WIDTH="82" VPOS="5075" HPOS="2649"/>
+<String CS="1" CONTENT="3"/>
+<SP HEIGHT="36" WIDTH="45" VPOS="5075" HPOS="2759"/>
+<String CONTENT="v." HEIGHT="23" WIDTH="50" VPOS="5084" HPOS="2805"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="991" VPOS="5119" HPOS="1763" CS="1">
+<String CONTENT="&#169;" HEIGHT="39" WIDTH="38" VPOS="5120" HPOS="1763"/>
+<SP HEIGHT="42" WIDTH="32" VPOS="5120" HPOS="1802"/>
+<String CONTENT="Banks-Baldwin" HEIGHT="44" WIDTH="443" VPOS="5119" HPOS="1835"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="5126" HPOS="2279"/>
+<String CONTENT="Law" HEIGHT="39" WIDTH="100" VPOS="5126" HPOS="2318"/>
+<SP HEIGHT="38" WIDTH="36" VPOS="5127" HPOS="2419"/>
+<String CONTENT="Pub." HEIGHT="42" WIDTH="122" VPOS="5124" HPOS="2456"/>
+<SP HEIGHT="38" WIDTH="48" VPOS="5128" HPOS="2579"/>
+<String CONTENT="Co.;" HEIGHT="46" WIDTH="126" VPOS="5128" HPOS="2628"/>
+</TextLine>
+<TextLine HEIGHT="59" WIDTH="365" VPOS="5170" HPOS="1971" CS="1">
+<String CS="1" CONTENT="18Jun73;" HEIGHT="48" WIDTH="55" VPOS="5180" HPOS="1971"/>
+<SP HEIGHT="48" WIDTH="47" VPOS="5181" HPOS="2027"/>
+<!-- cceid 20C1EDDC-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A445988." HEIGHT="57" WIDTH="261" VPOS="5171" HPOS="2075"/>
+</TextLine>
+<TextLine HEIGHT="57" WIDTH="1197" VPOS="5230" HPOS="1708" CS="1">
+<String CONTENT="Baldwin's" HEIGHT="42" WIDTH="302" VPOS="5240" HPOS="1708"/>
+<SP HEIGHT="40" WIDTH="41" VPOS="5239" HPOS="2011"/>
+<String CONTENT="Ohio" HEIGHT="40" WIDTH="129" VPOS="5238" HPOS="2053"/>
+<SP HEIGHT="40" WIDTH="42" VPOS="5237" HPOS="2183"/>
+<String CONTENT="legislative" HEIGHT="53" WIDTH="374" VPOS="5234" HPOS="2226"/>
+<SP HEIGHT="29" WIDTH="43" VPOS="5242" HPOS="2601"/>
+<String CONTENT="service," HEIGHT="47" WIDTH="260" VPOS="5232" HPOS="2645"/>
+</TextLine>
+<TextLine HEIGHT="65" WIDTH="1205" VPOS="5285" HPOS="1778">
+<String CONTENT="1972." HEIGHT="50" WIDTH="155" VPOS="5297" HPOS="1778"/>
+<SP HEIGHT="42" WIDTH="85" VPOS="5297" HPOS="1934"/>
+<String CONTENT="Cleveland," HEIGHT="51" WIDTH="330" VPOS="5293" HPOS="2020"/>
+<SP HEIGHT="50" WIDTH="47" VPOS="5294" HPOS="2351"/>
+<String CONTENT="Banks-Baldwin" HEIGHT="47" WIDTH="446" VPOS="5286" HPOS="2399"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="5287" HPOS="2846"/>
+<String CONTENT="Law" HEIGHT="39" WIDTH="99" VPOS="5287" HPOS="2884"/>
+</TextLine>
+<TextLine HEIGHT="59" WIDTH="1139" VPOS="5342" HPOS="1775">
+<String CONTENT="Pub." HEIGHT="42" WIDTH="125" VPOS="5357" HPOS="1775"/>
+<SP HEIGHT="42" WIDTH="50" VPOS="5357" HPOS="1900"/>
+<String CONTENT="Co." HEIGHT="41" WIDTH="90" VPOS="5357" HPOS="1950"/>
+<SP HEIGHT="44" WIDTH="84" VPOS="5354" HPOS="2040"/>
+<String CONTENT="1" HEIGHT="40" WIDTH="28" VPOS="5354" HPOS="2124"/>
+<SP HEIGHT="40" WIDTH="40" VPOS="5354" HPOS="2152"/>
+<String CONTENT="v." HEIGHT="32" WIDTH="54" VPOS="5363" HPOS="2192"/>
+<SP HEIGHT="43" WIDTH="83" VPOS="5352" HPOS="2246"/>
+<String CONTENT="On" HEIGHT="40" WIDTH="66" VPOS="5352" HPOS="2329"/>
+<SP HEIGHT="31" WIDTH="42" VPOS="5360" HPOS="2395"/>
+<String CONTENT="spine:" HEIGHT="51" WIDTH="190" VPOS="5349" HPOS="2437"/>
+<SP HEIGHT="42" WIDTH="51" VPOS="5348" HPOS="2627"/>
+<String CONTENT="Laws" HEIGHT="39" WIDTH="128" VPOS="5348" HPOS="2678"/>
+<SP HEIGHT="32" WIDTH="41" VPOS="5354" HPOS="2806"/>
+<String CONTENT="of" HEIGHT="40" WIDTH="67" VPOS="5344" HPOS="2847"/>
+</TextLine>
+<TextLine HEIGHT="115" WIDTH="1202" VPOS="5401" HPOS="1778" CS="1">
+<String CONTENT="the" HEIGHT="39" WIDTH="94" VPOS="5416" HPOS="1779"/>
+<SP HEIGHT="40" WIDTH="42" VPOS="5414" HPOS="1874"/>
+<String CONTENT="1972" HEIGHT="51" WIDTH="133" VPOS="5411" HPOS="1917"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="5412" HPOS="2051"/>
+<String CONTENT="regular" HEIGHT="50" WIDTH="234" VPOS="5411" HPOS="2091"/>
+<SP HEIGHT="30" WIDTH="42" VPOS="5420" HPOS="2326"/>
+<String CONTENT="session." HEIGHT="44" WIDTH="259" VPOS="5407" HPOS="2369"/>
+<SP HEIGHT="42" WIDTH="78" VPOS="5405" HPOS="2629"/>
+<String CONTENT="&#169;" HEIGHT="39" WIDTH="39" VPOS="5405" HPOS="2708"/>
+<SP HEIGHT="39" WIDTH="33" VPOS="5405" HPOS="2748"/>
+<String CONTENT="Banks-Baldwin" HEIGHT="115" WIDTH="1202" VPOS="5401" HPOS="1778"/>
+</TextLine>
+<TextLine HEIGHT="128" WIDTH="1105" VPOS="5453" HPOS="1776" CS="1">
+<String CONTENT="Law" HEIGHT="39" WIDTH="101" VPOS="5471" HPOS="2054"/>
+<SP HEIGHT="40" WIDTH="35" VPOS="5470" HPOS="2156"/>
+<String CONTENT="Pub." HEIGHT="41" WIDTH="124" VPOS="5469" HPOS="2192"/>
+<SP HEIGHT="42" WIDTH="50" VPOS="5468" HPOS="2317"/>
+<String CONTENT="Co.;" HEIGHT="48" WIDTH="123" VPOS="5468" HPOS="2368"/>
+<SP HEIGHT="53" WIDTH="47" VPOS="5464" HPOS="2492"/>
+<String CONTENT="9Feb73" HEIGHT="52" WIDTH="200" VPOS="5462" HPOS="2540"/>
+<SP HEIGHT="61" WIDTH="48" VPOS="5455" HPOS="2741"/>
+<String CONTENT="(in" HEIGHT="61" WIDTH="91" VPOS="5455" HPOS="2790"/>
+<SP/>
+<String CONTENT="notice:" HEIGHT="41" WIDTH="229" VPOS="5531" HPOS="1776"/>
+<SP HEIGHT="45" WIDTH="50" VPOS="5528" HPOS="2006"/>
+<String CONTENT="1972);" HEIGHT="58" WIDTH="191" VPOS="5522" HPOS="2057"/>
+<SP HEIGHT="50" WIDTH="46" VPOS="5528" HPOS="2249"/>
+<!-- cceid 20C51ABF-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A411718." HEIGHT="38" WIDTH="264" VPOS="5528" HPOS="2296"/>
+</TextLine>
+<TextLine HEIGHT="48" WIDTH="1269" VPOS="5589" HPOS="1706">
+<String CONTENT="Baldwin's" HEIGHT="41" WIDTH="304" VPOS="5589" HPOS="1706"/>
+<SP HEIGHT="41" WIDTH="39" VPOS="5590" HPOS="2011"/>
+<String CONTENT="Ohio" HEIGHT="41" WIDTH="133" VPOS="5591" HPOS="2051"/>
+<SP HEIGHT="30" WIDTH="40" VPOS="5602" HPOS="2185"/>
+<String CONTENT="revised" HEIGHT="40" WIDTH="235" VPOS="5593" HPOS="2226"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="5595" HPOS="2462"/>
+<String CONTENT="code" HEIGHT="39" WIDTH="131" VPOS="5596" HPOS="2501"/>
+<SP HEIGHT="30" WIDTH="38" VPOS="5605" HPOS="2633"/>
+<String CONTENT="and" HEIGHT="38" WIDTH="99" VPOS="5597" HPOS="2672"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="5597" HPOS="2772"/>
+<String CONTENT="rules" HEIGHT="40" WIDTH="163" VPOS="5597" HPOS="2812"/>
+</TextLine>
+<TextLine HEIGHT="58" WIDTH="1195" VPOS="5648" HPOS="1780">
+<String CONTENT="service;" HEIGHT="53" WIDTH="258" VPOS="5648" HPOS="1780"/>
+<SP HEIGHT="50" WIDTH="47" VPOS="5651" HPOS="2039"/>
+<String CONTENT="directly" HEIGHT="52" WIDTH="270" VPOS="5650" HPOS="2087"/>
+<SP HEIGHT="39" WIDTH="40" VPOS="5663" HPOS="2358"/>
+<String CONTENT="supplementing" HEIGHT="52" WIDTH="440" VPOS="5653" HPOS="2399"/>
+<SP HEIGHT="48" WIDTH="37" VPOS="5657" HPOS="2840"/>
+<String CONTENT="the" HEIGHT="40" WIDTH="97" VPOS="5656" HPOS="2878"/>
+</TextLine>
+<TextLine HEIGHT="65" WIDTH="959" VPOS="5701" HPOS="1777">
+<String CONTENT="fourth" HEIGHT="41" WIDTH="202" VPOS="5706" HPOS="1777"/>
+<SP HEIGHT="59" WIDTH="42" VPOS="5701" HPOS="1980"/>
+<String CONTENT="(Remov-A-Lex)" HEIGHT="64" WIDTH="430" VPOS="5701" HPOS="2023"/>
+<SP HEIGHT="62" WIDTH="46" VPOS="5704" HPOS="2454"/>
+<String CONTENT="edition" HEIGHT="42" WIDTH="235" VPOS="5711" HPOS="2501"/>
+</TextLine>
+<TextLine HEIGHT="103" WIDTH="1169" VPOS="5765" HPOS="1772" CS="1">
+<String CONTENT="Baldwin's" HEIGHT="42" WIDTH="305" VPOS="5765" HPOS="1773"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="5768" HPOS="2079"/>
+<String CONTENT="Ohio" HEIGHT="40" WIDTH="133" VPOS="5768" HPOS="2119"/>
+<SP HEIGHT="30" WIDTH="38" VPOS="5778" HPOS="2253"/>
+<String CONTENT="revised" HEIGHT="42" WIDTH="236" VPOS="5769" HPOS="2292"/>
+<SP HEIGHT="40" WIDTH="39" VPOS="5771" HPOS="2529"/>
+<String CONTENT="code" HEIGHT="40" WIDTH="131" VPOS="5772" HPOS="2569"/>
+<SP HEIGHT="30" WIDTH="38" VPOS="5782" HPOS="2701"/>
+<String CONTENT="annotated." HEIGHT="96" WIDTH="1167" VPOS="5772" HPOS="1774"/>
+</TextLine>
+<TextLine HEIGHT="112" WIDTH="1199" VPOS="5824" HPOS="1776" CS="1">
+<String CONTENT="1972" HEIGHT="50" WIDTH="131" VPOS="5824" HPOS="1983"/>
+<SP HEIGHT="40" WIDTH="41" VPOS="5827" HPOS="2114"/>
+<String CONTENT="cumulative" HEIGHT="42" WIDTH="337" VPOS="5828" HPOS="2155"/>
+<SP HEIGHT="41" WIDTH="42" VPOS="5830" HPOS="2492"/>
+<String CONTENT="issue." HEIGHT="43" WIDTH="192" VPOS="5831" HPOS="2534"/>
+<SP HEIGHT="40" WIDTH="82" VPOS="5834" HPOS="2726"/>
+<String CONTENT="Cleveland," HEIGHT="104" WIDTH="1199" VPOS="5832" HPOS="1776"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="885" VPOS="5882" HPOS="1978" CS="1">
+<String CONTENT="Banks-Baldwin" HEIGHT="45" WIDTH="447" VPOS="5882" HPOS="1978"/>
+<SP HEIGHT="39" WIDTH="36" VPOS="5888" HPOS="2426"/>
+<String CONTENT="Law" HEIGHT="40" WIDTH="99" VPOS="5888" HPOS="2463"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="5890" HPOS="2563"/>
+<String CONTENT="Pub." HEIGHT="42" WIDTH="122" VPOS="5890" HPOS="2603"/>
+<SP HEIGHT="40" WIDTH="46" VPOS="5892" HPOS="2726"/>
+<String CONTENT="Co." HEIGHT="41" WIDTH="90" VPOS="5892" HPOS="2773"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="1053" VPOS="5938" HPOS="1774" CS="1">
+<String CONTENT="10" HEIGHT="39" WIDTH="63" VPOS="5938" HPOS="1774"/>
+<SP HEIGHT="40" WIDTH="38" VPOS="5938" HPOS="1838"/>
+<String CONTENT="v." HEIGHT="31" WIDTH="53" VPOS="5949" HPOS="1877"/>
+<SP HEIGHT="40" WIDTH="78" VPOS="5940" HPOS="1931"/>
+<String CONTENT="&#169;" HEIGHT="39" WIDTH="39" VPOS="5940" HPOS="2010"/>
+<SP HEIGHT="38" WIDTH="30" VPOS="5941" HPOS="2050"/>
+<String CONTENT="Banks-Baldwin" HEIGHT="44" WIDTH="446" VPOS="5941" HPOS="2081"/>
+<SP HEIGHT="37" WIDTH="37" VPOS="5947" HPOS="2528"/>
+<String CONTENT="Law" HEIGHT="39" WIDTH="99" VPOS="5947" HPOS="2566"/>
+<SP HEIGHT="38" WIDTH="38" VPOS="5948" HPOS="2666"/>
+<String CONTENT="Pub." HEIGHT="41" WIDTH="122" VPOS="5948" HPOS="2705"/>
+</TextLine>
+<TextLine HEIGHT="65" WIDTH="1087" VPOS="5992" HPOS="1773">
+<String CONTENT="Co.;" HEIGHT="51" WIDTH="123" VPOS="5996" HPOS="1773"/>
+<SP HEIGHT="49" WIDTH="49" VPOS="5998" HPOS="1897"/>
+<String CONTENT="19Jan73" HEIGHT="50" WIDTH="233" VPOS="5997" HPOS="1947"/>
+<SP HEIGHT="60" WIDTH="46" VPOS="5993" HPOS="2181"/>
+<String CONTENT="(in" HEIGHT="60" WIDTH="92" VPOS="5993" HPOS="2228"/>
+<SP HEIGHT="30" WIDTH="35" VPOS="6011" HPOS="2321"/>
+<String CONTENT="notices:" HEIGHT="43" WIDTH="262" VPOS="6002" HPOS="2357"/>
+<SP HEIGHT="39" WIDTH="49" VPOS="6005" HPOS="2620"/>
+<String CONTENT="1972);" HEIGHT="57" WIDTH="190" VPOS="6000" HPOS="2670"/>
+</TextLine>
+<TextLine HEIGHT="47" WIDTH="264" VPOS="6054" HPOS="1769">
+<!-- cceid 20C845CA-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A400321." HEIGHT="47" WIDTH="264" VPOS="6054" HPOS="1769"/>
+</TextLine>
+</TextBlock>
+<TextBlock ID="Page1171_Block5" HEIGHT="5573" WIDTH="1446" VPOS="566" HPOS="3127" LANG="en-US" CS="1" STYLEREFS="StyleId-9DDC0715-E573-432D-9CE3-964958CE0E2D-">
+<Shape>
+<Polygon POINTS="3139,566 3427,566 3427,567 3889,567 3889,568 4350,568 4350,569 4573,569 4573,770 4572,770 4572,1231 4571,1231 4571,1693 4570,1693 4570,2154 4569,2154 4569,2616 4568,2616 4568,3078 4567,3078 4567,3539 4566,3539 4566,4001 4565,4001 4565,4462 4564,4462 4564,4924 4563,4924 4563,5385 4562,5385 4562,5847 4561,5847 4561,6139 4347,6139 4347,6138 3885,6138 3885,6137 3424,6137 3424,6136 3127,6136 3127,5843 3128,5843 3128,5382 3129,5382 3129,4920 3130,4920 3130,4459 3131,4459 3131,3997 3132,3997 3132,3535 3133,3535 3133,3074 3134,3074 3134,2612 3135,2612 3135,2151 3136,2151 3136,1689 3137,1689 3137,1228 3138,1228 3138,766 3139,766 3139,566"/>
+</Shape>
+<TextLine HEIGHT="48" WIDTH="1068" VPOS="578" HPOS="3239">
+<String CONTENT="Baldwin's" HEIGHT="43" WIDTH="305" VPOS="582" HPOS="3239"/>
+<SP HEIGHT="42" WIDTH="40" VPOS="581" HPOS="3545"/>
+<String CONTENT="Ohio" HEIGHT="42" WIDTH="132" VPOS="581" HPOS="3586"/>
+<SP HEIGHT="31" WIDTH="40" VPOS="592" HPOS="3719"/>
+<String CONTENT="revised" HEIGHT="44" WIDTH="238" VPOS="580" HPOS="3760"/>
+<SP HEIGHT="40" WIDTH="36" VPOS="581" HPOS="3999"/>
+<String CONTENT="code" HEIGHT="40" WIDTH="131" VPOS="581" HPOS="4036"/>
+<SP HEIGHT="30" WIDTH="38" VPOS="590" HPOS="4168"/>
+<String CONTENT="and" HEIGHT="40" WIDTH="100" VPOS="580" HPOS="4207"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="888" VPOS="638" HPOS="3313">
+<String CONTENT="rules" HEIGHT="39" WIDTH="163" VPOS="647" HPOS="3313"/>
+<SP HEIGHT="26" WIDTH="44" VPOS="658" HPOS="3477"/>
+<String CONTENT="service." HEIGHT="41" WIDTH="259" VPOS="644" HPOS="3522"/>
+<SP HEIGHT="42" WIDTH="78" VPOS="643" HPOS="3782"/>
+<String CONTENT="March" HEIGHT="40" WIDTH="170" VPOS="643" HPOS="3861"/>
+<SP HEIGHT="41" WIDTH="39" VPOS="642" HPOS="4032"/>
+<String CONTENT="1973" HEIGHT="49" WIDTH="129" VPOS="640" HPOS="4072"/>
+</TextLine>
+<TextLine HEIGHT="59" WIDTH="1166" VPOS="695" HPOS="3313">
+<String CONTENT="temporary" HEIGHT="49" WIDTH="305" VPOS="703" HPOS="3313"/>
+<SP HEIGHT="50" WIDTH="38" VPOS="701" HPOS="3619"/>
+<String CONTENT="issue" HEIGHT="39" WIDTH="165" VPOS="701" HPOS="3658"/>
+<SP HEIGHT="40" WIDTH="34" VPOS="700" HPOS="3824"/>
+<String CONTENT="&amp;" HEIGHT="36" WIDTH="31" VPOS="700" HPOS="3859"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="699" HPOS="3891"/>
+<String CONTENT="A" HEIGHT="37" WIDTH="30" VPOS="700" HPOS="3931"/>
+<SP HEIGHT="38" WIDTH="43" VPOS="700" HPOS="3962"/>
+<String CONTENT="special" HEIGHT="51" WIDTH="232" VPOS="698" HPOS="4006"/>
+<SP HEIGHT="39" WIDTH="40" VPOS="698" HPOS="4239"/>
+<String CONTENT="report" HEIGHT="50" WIDTH="199" VPOS="697" HPOS="4280"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="1057" VPOS="754" HPOS="3313">
+<String CONTENT="on" HEIGHT="29" WIDTH="63" VPOS="770" HPOS="3313"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="760" HPOS="3377"/>
+<String CONTENT="the" HEIGHT="41" WIDTH="97" VPOS="759" HPOS="3415"/>
+<SP HEIGHT="38" WIDTH="41" VPOS="760" HPOS="3512"/>
+<String CONTENT="1974" HEIGHT="48" WIDTH="130" VPOS="758" HPOS="3553"/>
+<SP HEIGHT="39" WIDTH="42" VPOS="758" HPOS="3683"/>
+<String CONTENT="Ohio" HEIGHT="40" WIDTH="135" VPOS="758" HPOS="3725"/>
+<SP HEIGHT="32" WIDTH="39" VPOS="766" HPOS="3860"/>
+<String CONTENT="criminal" HEIGHT="41" WIDTH="270" VPOS="756" HPOS="3899"/>
+<SP HEIGHT="39" WIDTH="41" VPOS="757" HPOS="4169"/>
+<String CONTENT="code." HEIGHT="41" WIDTH="160" VPOS="756" HPOS="4210"/>
+</TextLine>
+<TextLine HEIGHT="60" WIDTH="1125" VPOS="812" HPOS="3313" CS="1">
+<String CONTENT="Cleveland," HEIGHT="53" WIDTH="331" VPOS="817" HPOS="3313"/>
+<SP HEIGHT="52" WIDTH="43" VPOS="818" HPOS="3645"/>
+<String CONTENT="Banks-Baldwin" HEIGHT="44" WIDTH="449" VPOS="814" HPOS="3689"/>
+<SP HEIGHT="40" WIDTH="36" VPOS="815" HPOS="4139"/>
+<String CONTENT="Law" HEIGHT="39" WIDTH="100" VPOS="815" HPOS="4176"/>
+<SP HEIGHT="40" WIDTH="35" VPOS="814" HPOS="4277"/>
+<String CONTENT="Pub." HEIGHT="40" WIDTH="125" VPOS="814" HPOS="4313"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="1100" VPOS="869" HPOS="3313" CS="1">
+<String CONTENT="Co." HEIGHT="39" WIDTH="89" VPOS="878" HPOS="3313"/>
+<SP HEIGHT="42" WIDTH="82" VPOS="876" HPOS="3403"/>
+<String CONTENT="Looseleaf." HEIGHT="39" WIDTH="330" VPOS="876" HPOS="3486"/>
+<SP HEIGHT="41" WIDTH="72" VPOS="874" HPOS="3817"/>
+<String CONTENT="&#169;" HEIGHT="38" WIDTH="39" VPOS="874" HPOS="3890"/>
+<SP HEIGHT="37" WIDTH="34" VPOS="875" HPOS="3930"/>
+<String CONTENT="Banks-Baldwin" HEIGHT="43" WIDTH="448" VPOS="871" HPOS="3965"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1021" VPOS="929" HPOS="3314">
+<String CONTENT="Law" HEIGHT="40" WIDTH="99" VPOS="935" HPOS="3314"/>
+<SP HEIGHT="42" WIDTH="36" VPOS="934" HPOS="3414"/>
+<String CONTENT="Pub." HEIGHT="39" WIDTH="125" VPOS="935" HPOS="3451"/>
+<SP HEIGHT="39" WIDTH="44" VPOS="935" HPOS="3577"/>
+<String CONTENT="Co.;" HEIGHT="49" WIDTH="124" VPOS="935" HPOS="3622"/>
+<SP HEIGHT="52" WIDTH="46" VPOS="932" HPOS="3747"/>
+<String CONTENT="7May73;" HEIGHT="53" WIDTH="229" VPOS="930" HPOS="3794"/>
+<SP HEIGHT="52" WIDTH="44" VPOS="931" HPOS="4024"/>
+<!-- cceid 20CBBD96-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A431600." HEIGHT="47" WIDTH="266" VPOS="931" HPOS="4069"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="1156" VPOS="987" HPOS="3254">
+<String CONTENT="Farrell-Ellis" HEIGHT="42" WIDTH="438" VPOS="991" HPOS="3254"/>
+<SP HEIGHT="39" WIDTH="44" VPOS="994" HPOS="3693"/>
+<String CONTENT="Ohio" HEIGHT="41" WIDTH="132" VPOS="992" HPOS="3738"/>
+<SP HEIGHT="31" WIDTH="34" VPOS="1000" HPOS="3871"/>
+<String CONTENT="municipal" HEIGHT="51" WIDTH="308" VPOS="989" HPOS="3906"/>
+<SP HEIGHT="40" WIDTH="38" VPOS="989" HPOS="4215"/>
+<String CONTENT="code." HEIGHT="41" WIDTH="156" VPOS="989" HPOS="4254"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1085" VPOS="1046" HPOS="3325">
+<String CONTENT="1972-73" HEIGHT="49" WIDTH="229" VPOS="1050" HPOS="3325"/>
+<SP HEIGHT="45" WIDTH="46" VPOS="1052" HPOS="3555"/>
+<String CONTENT="supplement." HEIGHT="53" WIDTH="359" VPOS="1048" HPOS="3602"/>
+<SP HEIGHT="37" WIDTH="83" VPOS="1051" HPOS="3962"/>
+<String CONTENT="By" HEIGHT="46" WIDTH="67" VPOS="1051" HPOS="4046"/>
+<SP HEIGHT="48" WIDTH="36" VPOS="1049" HPOS="4114"/>
+<String CONTENT="James" HEIGHT="39" WIDTH="164" VPOS="1049" HPOS="4151"/>
+<SP HEIGHT="38" WIDTH="37" VPOS="1048" HPOS="4316"/>
+<String CONTENT="W." HEIGHT="40" WIDTH="56" VPOS="1049" HPOS="4354"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1057" VPOS="1103" HPOS="3320">
+<String CONTENT="Farrell," HEIGHT="49" WIDTH="264" VPOS="1108" HPOS="3320"/>
+<SP HEIGHT="48" WIDTH="48" VPOS="1109" HPOS="3585"/>
+<String CONTENT="Jr." HEIGHT="39" WIDTH="87" VPOS="1109" HPOS="3634"/>
+<SP HEIGHT="39" WIDTH="82" VPOS="1108" HPOS="3722"/>
+<String CONTENT="Cincinnati," HEIGHT="51" WIDTH="365" VPOS="1104" HPOS="3805"/>
+<SP HEIGHT="49" WIDTH="44" VPOS="1106" HPOS="4171"/>
+<String CONTENT="W." HEIGHT="41" WIDTH="56" VPOS="1106" HPOS="4216"/>
+<SP HEIGHT="41" WIDTH="47" VPOS="1106" HPOS="4273"/>
+<String CONTENT="H." HEIGHT="42" WIDTH="56" VPOS="1106" HPOS="4321"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="1126" VPOS="1161" HPOS="3323" CS="1">
+<String CONTENT="Anderson" HEIGHT="42" WIDTH="271" VPOS="1167" HPOS="3323"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="1167" HPOS="3595"/>
+<String CONTENT="Co." HEIGHT="39" WIDTH="88" VPOS="1167" HPOS="3633"/>
+<SP HEIGHT="48" WIDTH="80" VPOS="1166" HPOS="3722"/>
+<String CONTENT="3" HEIGHT="48" WIDTH="29" VPOS="1166" HPOS="3803"/>
+<SP HEIGHT="48" WIDTH="40" VPOS="1166" HPOS="3833"/>
+<String CONTENT="v." HEIGHT="32" WIDTH="54" VPOS="1174" HPOS="3874"/>
+<SP HEIGHT="41" WIDTH="82" VPOS="1165" HPOS="3929"/>
+<String CONTENT="Appl." HEIGHT="50" WIDTH="157" VPOS="1165" HPOS="4012"/>
+<SP HEIGHT="31" WIDTH="50" VPOS="1174" HPOS="4170"/>
+<String CONTENT="author:" HEIGHT="43" WIDTH="228" VPOS="1163" HPOS="4221"/>
+</TextLine>
+<TextLine HEIGHT="50" WIDTH="1240" VPOS="1221" HPOS="3321">
+<String CONTENT="W." HEIGHT="40" WIDTH="56" VPOS="1228" HPOS="3321"/>
+<SP HEIGHT="41" WIDTH="46" VPOS="1227" HPOS="3377"/>
+<String CONTENT="H." HEIGHT="42" WIDTH="59" VPOS="1227" HPOS="3423"/>
+<SP HEIGHT="42" WIDTH="46" VPOS="1227" HPOS="3482"/>
+<String CONTENT="Anderson" HEIGHT="41" WIDTH="275" VPOS="1225" HPOS="3528"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="1225" HPOS="3803"/>
+<String CONTENT="Co." HEIGHT="40" WIDTH="89" VPOS="1225" HPOS="3840"/>
+<SP HEIGHT="40" WIDTH="80" VPOS="1225" HPOS="3929"/>
+<String CONTENT="&#169;" HEIGHT="38" WIDTH="38" VPOS="1225" HPOS="4009"/>
+<SP HEIGHT="38" WIDTH="31" VPOS="1225" HPOS="4047"/>
+<String CONTENT="W." HEIGHT="42" WIDTH="58" VPOS="1225" HPOS="4078"/>
+<SP HEIGHT="41" WIDTH="47" VPOS="1226" HPOS="4136"/>
+<String CONTENT="H." HEIGHT="39" WIDTH="57" VPOS="1226" HPOS="4183"/>
+<SP HEIGHT="41" WIDTH="46" VPOS="1224" HPOS="4240"/>
+<String CONTENT="Anderson" HEIGHT="41" WIDTH="275" VPOS="1223" HPOS="4286"/>
+</TextLine>
+<TextLine HEIGHT="62" WIDTH="741" VPOS="1273" HPOS="3325" CS="1">
+<String CONTENT="Co.;" HEIGHT="49" WIDTH="123" VPOS="1285" HPOS="3325"/>
+<SP HEIGHT="48" WIDTH="43" VPOS="1286" HPOS="3449"/>
+<String CONTENT="31May73;" HEIGHT="50" WIDTH="264" VPOS="1284" HPOS="3493"/>
+<SP HEIGHT="50" WIDTH="44" VPOS="1283" HPOS="3758"/>
+<!-- cceid 20CF23C4-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A441806." HEIGHT="50" WIDTH="263" VPOS="1274" HPOS="3803"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="995" VPOS="1338" HPOS="3250">
+<String CONTENT="Ohio" HEIGHT="40" WIDTH="132" VPOS="1351" HPOS="3250"/>
+<SP HEIGHT="30" WIDTH="37" VPOS="1359" HPOS="3383"/>
+<String CONTENT="mental" HEIGHT="41" WIDTH="198" VPOS="1348" HPOS="3421"/>
+<SP HEIGHT="39" WIDTH="43" VPOS="1348" HPOS="3620"/>
+<String CONTENT="health" HEIGHT="40" WIDTH="200" VPOS="1345" HPOS="3664"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="1345" HPOS="3865"/>
+<String CONTENT="and" HEIGHT="39" WIDTH="96" VPOS="1343" HPOS="3904"/>
+<SP HEIGHT="38" WIDTH="41" VPOS="1343" HPOS="4001"/>
+<String CONTENT="mental" HEIGHT="40" WIDTH="202" VPOS="1340" HPOS="4043"/>
+</TextLine>
+<TextLine HEIGHT="52" WIDTH="918" VPOS="1398" HPOS="3319">
+<String CONTENT="retardation" HEIGHT="43" WIDTH="374" VPOS="1406" HPOS="3319"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="1405" HPOS="3694"/>
+<String CONTENT="laws" HEIGHT="39" WIDTH="129" VPOS="1405" HPOS="3733"/>
+<SP HEIGHT="29" WIDTH="42" VPOS="1413" HPOS="3863"/>
+<String CONTENT="annotated," HEIGHT="48" WIDTH="331" VPOS="1400" HPOS="3906"/>
+</TextLine>
+<TextLine HEIGHT="63" WIDTH="988" VPOS="1455" HPOS="3317" CS="1">
+<String CONTENT="complete" HEIGHT="53" WIDTH="271" VPOS="1464" HPOS="3317"/>
+<SP HEIGHT="38" WIDTH="43" VPOS="1465" HPOS="3589"/>
+<String CONTENT="to" HEIGHT="37" WIDTH="60" VPOS="1465" HPOS="3633"/>
+<SP HEIGHT="37" WIDTH="38" VPOS="1465" HPOS="3694"/>
+<String CONTENT="November" HEIGHT="44" WIDTH="271" VPOS="1459" HPOS="3733"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="1459" HPOS="4005"/>
+<String CONTENT="1," HEIGHT="49" WIDTH="54" VPOS="1459" HPOS="4045"/>
+<SP HEIGHT="51" WIDTH="48" VPOS="1457" HPOS="4100"/>
+<String CONTENT="1972." HEIGHT="47" WIDTH="156" VPOS="1457" HPOS="4149"/>
+</TextLine>
+<TextLine HEIGHT="61" WIDTH="957" VPOS="1513" HPOS="3322">
+<String CONTENT="114" HEIGHT="46" WIDTH="96" VPOS="1517" HPOS="3322"/>
+<SP HEIGHT="56" WIDTH="38" VPOS="1517" HPOS="3419"/>
+<String CONTENT="p." HEIGHT="38" WIDTH="53" VPOS="1535" HPOS="3458"/>
+<SP HEIGHT="39" WIDTH="83" VPOS="1524" HPOS="3512"/>
+<String CONTENT="Appl." HEIGHT="50" WIDTH="158" VPOS="1521" HPOS="3596"/>
+<SP HEIGHT="29" WIDTH="47" VPOS="1531" HPOS="3755"/>
+<String CONTENT="author:" HEIGHT="41" WIDTH="226" VPOS="1518" HPOS="3803"/>
+<SP HEIGHT="38" WIDTH="48" VPOS="1519" HPOS="4030"/>
+<String CONTENT="Banks-" HEIGHT="41" WIDTH="200" VPOS="1515" HPOS="4079"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="1029" VPOS="1569" HPOS="3319">
+<String CONTENT="Baldwin" HEIGHT="43" WIDTH="238" VPOS="1579" HPOS="3319"/>
+<SP HEIGHT="37" WIDTH="36" VPOS="1580" HPOS="3558"/>
+<String CONTENT="Law" HEIGHT="37" WIDTH="97" VPOS="1580" HPOS="3595"/>
+<SP HEIGHT="38" WIDTH="42" VPOS="1578" HPOS="3693"/>
+<String CONTENT="Pub." HEIGHT="41" WIDTH="120" VPOS="1575" HPOS="3736"/>
+<SP HEIGHT="41" WIDTH="49" VPOS="1575" HPOS="3857"/>
+<String CONTENT="Co." HEIGHT="38" WIDTH="88" VPOS="1576" HPOS="3907"/>
+<SP HEIGHT="42" WIDTH="78" VPOS="1571" HPOS="3996"/>
+<String CONTENT="&#169;" HEIGHT="39" WIDTH="39" VPOS="1571" HPOS="4075"/>
+<SP HEIGHT="41" WIDTH="31" VPOS="1571" HPOS="4115"/>
+<String CONTENT="Banks-" HEIGHT="41" WIDTH="201" VPOS="1571" HPOS="4147"/>
+</TextLine>
+<TextLine HEIGHT="53" WIDTH="1025" VPOS="1627" HPOS="3317">
+<String CONTENT="Baldwin" HEIGHT="43" WIDTH="243" VPOS="1636" HPOS="3317"/>
+<SP HEIGHT="36" WIDTH="34" VPOS="1638" HPOS="3561"/>
+<String CONTENT="Law" HEIGHT="36" WIDTH="96" VPOS="1638" HPOS="3596"/>
+<SP HEIGHT="37" WIDTH="40" VPOS="1636" HPOS="3693"/>
+<String CONTENT="Pub." HEIGHT="40" WIDTH="122" VPOS="1633" HPOS="3734"/>
+<SP HEIGHT="41" WIDTH="49" VPOS="1633" HPOS="3857"/>
+<String CONTENT="Co.;" HEIGHT="43" WIDTH="125" VPOS="1634" HPOS="3907"/>
+<SP HEIGHT="46" WIDTH="47" VPOS="1631" HPOS="4033"/>
+<String CONTENT="15Jan73;" HEIGHT="47" WIDTH="261" VPOS="1629" HPOS="4081"/>
+</TextLine>
+<TextLine HEIGHT="53" WIDTH="262" VPOS="1688" HPOS="3322">
+<!-- cceid 20D27E9E-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A407222." HEIGHT="53" WIDTH="262" VPOS="1688" HPOS="3322"/>
+</TextLine>
+<TextLine HEIGHT="57" WIDTH="1194" VPOS="1747" HPOS="3265">
+<String CONTENT="Page's" HEIGHT="47" WIDTH="200" VPOS="1755" HPOS="3265"/>
+<SP HEIGHT="36" WIDTH="40" VPOS="1757" HPOS="3466"/>
+<String CONTENT="Ohio" HEIGHT="40" WIDTH="132" VPOS="1753" HPOS="3507"/>
+<SP HEIGHT="29" WIDTH="41" VPOS="1761" HPOS="3640"/>
+<String CONTENT="revised" HEIGHT="40" WIDTH="234" VPOS="1751" HPOS="3682"/>
+<SP HEIGHT="38" WIDTH="37" VPOS="1752" HPOS="3917"/>
+<String CONTENT="code" HEIGHT="38" WIDTH="132" VPOS="1752" HPOS="3955"/>
+<SP HEIGHT="29" WIDTH="40" VPOS="1761" HPOS="4088"/>
+<String CONTENT="annotated." HEIGHT="42" WIDTH="330" VPOS="1749" HPOS="4129"/>
+</TextLine>
+<TextLine HEIGHT="52" WIDTH="986" VPOS="1806" HPOS="3337" CS="1">
+<String CONTENT="1972" HEIGHT="49" WIDTH="130" VPOS="1808" HPOS="3337"/>
+<SP HEIGHT="38" WIDTH="42" VPOS="1809" HPOS="3468"/>
+<String CONTENT="supplement." HEIGHT="48" WIDTH="360" VPOS="1809" HPOS="3511"/>
+<SP HEIGHT="38" WIDTH="82" VPOS="1810" HPOS="3872"/>
+<String CONTENT="Cincinnati," HEIGHT="48" WIDTH="368" VPOS="1808" HPOS="3955"/>
+</TextLine>
+<TextLine HEIGHT="53" WIDTH="1092" VPOS="1862" HPOS="3332">
+<String CONTENT="W." HEIGHT="36" WIDTH="55" VPOS="1871" HPOS="3332"/>
+<SP HEIGHT="38" WIDTH="50" VPOS="1870" HPOS="3388"/>
+<String CONTENT="H." HEIGHT="37" WIDTH="52" VPOS="1871" HPOS="3439"/>
+<SP HEIGHT="39" WIDTH="51" VPOS="1868" HPOS="3492"/>
+<String CONTENT="Anderson" HEIGHT="40" WIDTH="271" VPOS="1867" HPOS="3544"/>
+<SP HEIGHT="38" WIDTH="34" VPOS="1868" HPOS="3816"/>
+<String CONTENT="Co." HEIGHT="39" WIDTH="89" VPOS="1868" HPOS="3851"/>
+<SP HEIGHT="39" WIDTH="86" VPOS="1865" HPOS="3941"/>
+<String CONTENT="23" HEIGHT="46" WIDTH="59" VPOS="1865" HPOS="4028"/>
+<SP HEIGHT="45" WIDTH="40" VPOS="1866" HPOS="4088"/>
+<String CONTENT="v." HEIGHT="29" WIDTH="54" VPOS="1876" HPOS="4129"/>
+<SP HEIGHT="39" WIDTH="82" VPOS="1868" HPOS="4184"/>
+<String CONTENT="Appl." HEIGHT="51" WIDTH="157" VPOS="1864" HPOS="4267"/>
+</TextLine>
+<TextLine HEIGHT="45" WIDTH="879" VPOS="1922" HPOS="3337" CS="1">
+<String CONTENT="author:" HEIGHT="39" WIDTH="222" VPOS="1926" HPOS="3337"/>
+<SP HEIGHT="37" WIDTH="48" VPOS="1928" HPOS="3560"/>
+<String CONTENT="W." HEIGHT="37" WIDTH="55" VPOS="1928" HPOS="3609"/>
+<SP HEIGHT="38" WIDTH="49" VPOS="1928" HPOS="3665"/>
+<String CONTENT="H." HEIGHT="38" WIDTH="53" VPOS="1928" HPOS="3715"/>
+<SP HEIGHT="37" WIDTH="50" VPOS="1927" HPOS="3769"/>
+<String CONTENT="Anderson" HEIGHT="42" WIDTH="271" VPOS="1923" HPOS="3820"/>
+<SP HEIGHT="39" WIDTH="35" VPOS="1925" HPOS="4092"/>
+<String CONTENT="Co." HEIGHT="39" WIDTH="88" VPOS="1925" HPOS="4128"/>
+</TextLine>
+<TextLine HEIGHT="61" WIDTH="1138" VPOS="1973" HPOS="3333" CS="1">
+<String CONTENT="&#169;" HEIGHT="37" WIDTH="37" VPOS="1985" HPOS="3333"/>
+<SP HEIGHT="38" WIDTH="30" VPOS="1985" HPOS="3371"/>
+<String CONTENT="W." HEIGHT="38" WIDTH="55" VPOS="1986" HPOS="3402"/>
+<SP HEIGHT="38" WIDTH="50" VPOS="1986" HPOS="3458"/>
+<String CONTENT="H." HEIGHT="38" WIDTH="52" VPOS="1986" HPOS="3509"/>
+<SP HEIGHT="37" WIDTH="48" VPOS="1985" HPOS="3562"/>
+<String CONTENT="Anderson" HEIGHT="40" WIDTH="273" VPOS="1982" HPOS="3611"/>
+<SP HEIGHT="38" WIDTH="34" VPOS="1983" HPOS="3885"/>
+<String CS="1" CONTENT="Co.;" HEIGHT="37" WIDTH="89" VPOS="1984" HPOS="3920"/>
+<SP HEIGHT="40" WIDTH="49" VPOS="1980" HPOS="4047"/>
+<String CONTENT="29Jan73" HEIGHT="48" WIDTH="231" VPOS="1980" HPOS="4097"/>
+<SP HEIGHT="59" WIDTH="49" VPOS="1975" HPOS="4329"/>
+<String CONTENT="(in" HEIGHT="58" WIDTH="92" VPOS="1976" HPOS="4379"/>
+</TextLine>
+<TextLine HEIGHT="74" WIDTH="778" VPOS="2020" HPOS="3336" CS="1">
+<String CONTENT="notice:" HEIGHT="41" WIDTH="223" VPOS="2041" HPOS="3336"/>
+<SP HEIGHT="42" WIDTH="53" VPOS="2040" HPOS="3560"/>
+<String CONTENT="1972);" HEIGHT="57" WIDTH="191" VPOS="2036" HPOS="3614"/>
+<SP HEIGHT="46" WIDTH="47" VPOS="2042" HPOS="3806"/>
+<!-- cceid 20D5B20B-72DD-1014-B3A3-DDF21CF07E3D --><String CS="1" CONTENT="A421046." HEIGHT="59" WIDTH="260" VPOS="2021" HPOS="3854"/>
+</TextLine>
+<TextLine HEIGHT="63" WIDTH="1065" VPOS="2155" HPOS="3225" STYLEREFS="StyleId-960E18EE-84E6-4421-A626-B059CAEBFFBD-" CS="1">
+<String CS="1" CONTENT="OHIO." HEIGHT="46" WIDTH="126" VPOS="2155" HPOS="3225"/>
+<SP HEIGHT="40" WIDTH="80" VPOS="2162" HPOS="3352"/>
+<String CONTENT="LAWS," HEIGHT="56" WIDTH="160" VPOS="2158" HPOS="3433"/>
+<SP HEIGHT="53" WIDTH="45" VPOS="2161" HPOS="3594"/>
+<String CONTENT="STATUTES," HEIGHT="57" WIDTH="299" VPOS="2161" HPOS="3640"/>
+<SP HEIGHT="53" WIDTH="43" VPOS="2165" HPOS="3940"/>
+<String CONTENT="ETC." HEIGHT="46" WIDTH="128" VPOS="2165" HPOS="3984"/>
+<SP HEIGHT="43" WIDTH="79" VPOS="2168" HPOS="4113"/>
+<String CONTENT="See" HEIGHT="44" WIDTH="97" VPOS="2168" HPOS="4193"/>
+</TextLine>
+<TextLine HEIGHT="57" WIDTH="1125" VPOS="2216" HPOS="3262" STYLEREFS="StyleId-960E18EE-84E6-4421-A626-B059CAEBFFBD-">
+<String CONTENT="BALDWIN'S" HEIGHT="46" WIDTH="300" VPOS="2216" HPOS="3262"/>
+<SP HEIGHT="42" WIDTH="41" VPOS="2220" HPOS="3563"/>
+<String CONTENT="OHIO" HEIGHT="42" WIDTH="131" VPOS="2222" HPOS="3605"/>
+<SP HEIGHT="43" WIDTH="37" VPOS="2222" HPOS="3737"/>
+<String CONTENT="TAX" HEIGHT="43" WIDTH="103" VPOS="2222" HPOS="3775"/>
+<SP HEIGHT="42" WIDTH="36" VPOS="2225" HPOS="3879"/>
+<String CONTENT="LAW" HEIGHT="42" WIDTH="101" VPOS="2225" HPOS="3916"/>
+<SP HEIGHT="42" WIDTH="32" VPOS="2225" HPOS="4018"/>
+<String CONTENT="AND" HEIGHT="43" WIDTH="102" VPOS="2225" HPOS="4051"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="2228" HPOS="4154"/>
+<String CONTENT="RULES." HEIGHT="45" WIDTH="195" VPOS="2228" HPOS="4192"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1058" VPOS="2352" HPOS="3179">
+<String CONTENT="THE" HEIGHT="40" WIDTH="98" VPOS="2352" HPOS="3179"/>
+<SP HEIGHT="41" WIDTH="38" VPOS="2352" HPOS="3278"/>
+<String CONTENT="OHIO" HEIGHT="42" WIDTH="134" VPOS="2352" HPOS="3317"/>
+<SP HEIGHT="41" WIDTH="37" VPOS="2353" HPOS="3452"/>
+<String CONTENT="LEGAL" HEIGHT="41" WIDTH="170" VPOS="2354" HPOS="3490"/>
+<SP HEIGHT="40" WIDTH="36" VPOS="2354" HPOS="3661"/>
+<String CONTENT="DIRECTORY," HEIGHT="52" WIDTH="332" VPOS="2356" HPOS="3698"/>
+<SP HEIGHT="54" WIDTH="50" VPOS="2354" HPOS="4031"/>
+<String CONTENT="1972." HEIGHT="49" WIDTH="155" VPOS="2354" HPOS="4082"/>
+</TextLine>
+<TextLine HEIGHT="53" WIDTH="1196" VPOS="2413" HPOS="3248" CS="1">
+<String CONTENT="Los" HEIGHT="39" WIDTH="95" VPOS="2414" HPOS="3248"/>
+<SP HEIGHT="38" WIDTH="41" VPOS="2415" HPOS="3344"/>
+<String CONTENT="Angeles," HEIGHT="50" WIDTH="263" VPOS="2413" HPOS="3386"/>
+<SP HEIGHT="46" WIDTH="47" VPOS="2417" HPOS="3650"/>
+<String CONTENT="Legal" HEIGHT="50" WIDTH="166" VPOS="2414" HPOS="3698"/>
+<SP HEIGHT="42" WIDTH="40" VPOS="2414" HPOS="3865"/>
+<String CONTENT="Directories" HEIGHT="39" WIDTH="372" VPOS="2417" HPOS="3906"/>
+<SP HEIGHT="38" WIDTH="42" VPOS="2421" HPOS="4279"/>
+<String CONTENT="Pub." HEIGHT="42" WIDTH="122" VPOS="2418" HPOS="4322"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="1197" VPOS="2470" HPOS="3247">
+<String CONTENT="Co." HEIGHT="39" WIDTH="90" VPOS="2471" HPOS="3247"/>
+<SP HEIGHT="40" WIDTH="86" VPOS="2470" HPOS="3338"/>
+<String CONTENT="1" HEIGHT="39" WIDTH="25" VPOS="2470" HPOS="3425"/>
+<SP HEIGHT="39" WIDTH="37" VPOS="2471" HPOS="3451"/>
+<String CONTENT="v." HEIGHT="29" WIDTH="56" VPOS="2482" HPOS="3489"/>
+<SP HEIGHT="39" WIDTH="81" VPOS="2474" HPOS="3546"/>
+<String CONTENT="Appl." HEIGHT="50" WIDTH="159" VPOS="2472" HPOS="3628"/>
+<SP HEIGHT="30" WIDTH="48" VPOS="2482" HPOS="3788"/>
+<String CONTENT="author;" HEIGHT="43" WIDTH="225" VPOS="2474" HPOS="3837"/>
+<SP HEIGHT="40" WIDTH="46" VPOS="2477" HPOS="4063"/>
+<String CONTENT="William" HEIGHT="43" WIDTH="241" VPOS="2474" HPOS="4110"/>
+<SP HEIGHT="38" WIDTH="35" VPOS="2479" HPOS="4352"/>
+<String CONTENT="E." HEIGHT="38" WIDTH="56" VPOS="2479" HPOS="4388"/>
+</TextLine>
+<TextLine HEIGHT="52" WIDTH="1265" VPOS="2530" HPOS="3248">
+<String CONTENT="Brown." HEIGHT="38" WIDTH="193" VPOS="2532" HPOS="3248"/>
+<SP HEIGHT="37" WIDTH="80" VPOS="2531" HPOS="3442"/>
+<String CONTENT="&#169;" HEIGHT="37" WIDTH="37" VPOS="2531" HPOS="3523"/>
+<SP HEIGHT="40" WIDTH="32" VPOS="2531" HPOS="3561"/>
+<String CONTENT="Legal" HEIGHT="48" WIDTH="166" VPOS="2531" HPOS="3594"/>
+<SP HEIGHT="41" WIDTH="39" VPOS="2531" HPOS="3761"/>
+<String CONTENT="Directories" HEIGHT="42" WIDTH="373" VPOS="2531" HPOS="3801"/>
+<SP HEIGHT="37" WIDTH="40" VPOS="2537" HPOS="4175"/>
+<String CONTENT="Pub." HEIGHT="40" WIDTH="124" VPOS="2534" HPOS="4216"/>
+<SP HEIGHT="38" WIDTH="47" VPOS="2536" HPOS="4341"/>
+<String CONTENT="Co.," HEIGHT="45" WIDTH="124" VPOS="2537" HPOS="4389"/>
+</TextLine>
+<TextLine HEIGHT="58" WIDTH="779" VPOS="2580" HPOS="3250">
+<String CONTENT="Inc.;" HEIGHT="46" WIDTH="158" VPOS="2590" HPOS="3250"/>
+<SP HEIGHT="51" WIDTH="50" VPOS="2586" HPOS="3408"/>
+<String CONTENT="12Dec72;" HEIGHT="50" WIDTH="261" VPOS="2587" HPOS="3458"/>
+<SP HEIGHT="46" WIDTH="47" VPOS="2591" HPOS="3719"/>
+<!-- cceid 20DC1DD8-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A438539." HEIGHT="56" WIDTH="263" VPOS="2581" HPOS="3766"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="1299" VPOS="2686" HPOS="3147">
+<String CONTENT="OHIO" HEIGHT="39" WIDTH="133" VPOS="2699" HPOS="3147"/>
+<SP HEIGHT="39" WIDTH="37" VPOS="2699" HPOS="3281"/>
+<String CONTENT="OFFICIAL" HEIGHT="42" WIDTH="273" VPOS="2695" HPOS="3319"/>
+<SP HEIGHT="38" WIDTH="36" VPOS="2696" HPOS="3593"/>
+<String CONTENT="REPORTS." HEIGHT="42" WIDTH="262" VPOS="2694" HPOS="3630"/>
+<SP HEIGHT="43" WIDTH="82" VPOS="2693" HPOS="3893"/>
+<String CONTENT="Second" HEIGHT="40" WIDTH="199" VPOS="2691" HPOS="3976"/>
+<SP HEIGHT="38" WIDTH="44" VPOS="2691" HPOS="4176"/>
+<String CONTENT="series." HEIGHT="42" WIDTH="225" VPOS="2688" HPOS="4221"/>
+</TextLine>
+<TextLine HEIGHT="66" WIDTH="1265" VPOS="2744" HPOS="3221">
+<String CONTENT="[Reports" HEIGHT="54" WIDTH="263" VPOS="2754" HPOS="3221"/>
+<SP HEIGHT="30" WIDTH="41" VPOS="2765" HPOS="3485"/>
+<String CONTENT="of" HEIGHT="38" WIDTH="62" VPOS="2756" HPOS="3527"/>
+<SP HEIGHT="37" WIDTH="38" VPOS="2756" HPOS="3590"/>
+<String CONTENT="cases" HEIGHT="29" WIDTH="165" VPOS="2764" HPOS="3629"/>
+<SP HEIGHT="28" WIDTH="42" VPOS="2764" HPOS="3795"/>
+<String CONTENT="argued" HEIGHT="51" WIDTH="199" VPOS="2750" HPOS="3838"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="2751" HPOS="4038"/>
+<String CONTENT="&amp;" HEIGHT="37" WIDTH="32" VPOS="2752" HPOS="4079"/>
+<SP HEIGHT="39" WIDTH="36" VPOS="2750" HPOS="4112"/>
+<String CONTENT="determined" HEIGHT="44" WIDTH="337" VPOS="2746" HPOS="4149"/>
+</TextLine>
+<TextLine HEIGHT="61" WIDTH="1132" VPOS="2805" HPOS="3218">
+<String CONTENT="in" HEIGHT="40" WIDTH="62" VPOS="2815" HPOS="3218"/>
+<SP HEIGHT="40" WIDTH="40" VPOS="2815" HPOS="3281"/>
+<String CONTENT="the" HEIGHT="39" WIDTH="93" VPOS="2815" HPOS="3322"/>
+<SP HEIGHT="41" WIDTH="43" VPOS="2814" HPOS="3416"/>
+<String CONTENT="Supreme" HEIGHT="49" WIDTH="231" VPOS="2815" HPOS="3460"/>
+<SP HEIGHT="40" WIDTH="40" VPOS="2812" HPOS="3692"/>
+<String CONTENT="Court" HEIGHT="42" WIDTH="168" VPOS="2811" HPOS="3733"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="2812" HPOS="3902"/>
+<String CONTENT="of" HEIGHT="39" WIDTH="63" VPOS="2810" HPOS="3943"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="2810" HPOS="4007"/>
+<String CONTENT="Ohio," HEIGHT="50" WIDTH="158" VPOS="2808" HPOS="4048"/>
+<SP HEIGHT="50" WIDTH="47" VPOS="2808" HPOS="4207"/>
+<String CONTENT="the" HEIGHT="41" WIDTH="95" VPOS="2807" HPOS="4255"/>
+</TextLine>
+<TextLine HEIGHT="62" WIDTH="1241" VPOS="2861" HPOS="3215">
+<String CONTENT="Courts" HEIGHT="39" WIDTH="200" VPOS="2873" HPOS="3215"/>
+<SP HEIGHT="33" WIDTH="43" VPOS="2880" HPOS="3416"/>
+<String CONTENT="of" HEIGHT="39" WIDTH="62" VPOS="2872" HPOS="3460"/>
+<SP HEIGHT="39" WIDTH="37" VPOS="2872" HPOS="3523"/>
+<String CONTENT="Appeals" HEIGHT="52" WIDTH="235" VPOS="2869" HPOS="3561"/>
+<SP HEIGHT="30" WIDTH="42" VPOS="2879" HPOS="3797"/>
+<String CONTENT="of" HEIGHT="40" WIDTH="64" VPOS="2868" HPOS="3840"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="2869" HPOS="3905"/>
+<String CONTENT="Ohio" HEIGHT="41" WIDTH="132" VPOS="2867" HPOS="3944"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="2867" HPOS="4077"/>
+<String CONTENT="&amp;" HEIGHT="38" WIDTH="31" VPOS="2867" HPOS="4116"/>
+<SP HEIGHT="39" WIDTH="40" VPOS="2867" HPOS="4148"/>
+<String CONTENT="selected" HEIGHT="44" WIDTH="267" VPOS="2863" HPOS="4189"/>
+</TextLine>
+<TextLine HEIGHT="53" WIDTH="1206" VPOS="2920" HPOS="3217">
+<String CONTENT="cases" HEIGHT="30" WIDTH="164" VPOS="2940" HPOS="3217"/>
+<SP HEIGHT="41" WIDTH="44" VPOS="2929" HPOS="3382"/>
+<String CONTENT="in" HEIGHT="39" WIDTH="63" VPOS="2930" HPOS="3427"/>
+<SP HEIGHT="39" WIDTH="37" VPOS="2930" HPOS="3491"/>
+<String CONTENT="the" HEIGHT="39" WIDTH="96" VPOS="2930" HPOS="3529"/>
+<SP HEIGHT="29" WIDTH="42" VPOS="2938" HPOS="3626"/>
+<String CONTENT="other" HEIGHT="38" WIDTH="165" VPOS="2929" HPOS="3669"/>
+<SP HEIGHT="30" WIDTH="38" VPOS="2936" HPOS="3835"/>
+<String CONTENT="courts" HEIGHT="40" WIDTH="199" VPOS="2926" HPOS="3874"/>
+<SP HEIGHT="30" WIDTH="42" VPOS="2934" HPOS="4074"/>
+<String CONTENT="of" HEIGHT="39" WIDTH="63" VPOS="2924" HPOS="4117"/>
+<SP HEIGHT="38" WIDTH="38" VPOS="2924" HPOS="4181"/>
+<String CONTENT="and" HEIGHT="39" WIDTH="96" VPOS="2923" HPOS="4220"/>
+<SP HEIGHT="39" WIDTH="43" VPOS="2922" HPOS="4317"/>
+<String CONTENT="in" HEIGHT="37" WIDTH="62" VPOS="2923" HPOS="4361"/>
+</TextLine>
+<TextLine HEIGHT="60" WIDTH="1265" VPOS="2978" HPOS="3219">
+<String CONTENT="Ohio]" HEIGHT="52" WIDTH="154" VPOS="2983" HPOS="3219"/>
+<SP HEIGHT="53" WIDTH="85" VPOS="2983" HPOS="3374"/>
+<String CONTENT="Reported" HEIGHT="50" WIDTH="269" VPOS="2986" HPOS="3460"/>
+<SP HEIGHT="38" WIDTH="38" VPOS="2986" HPOS="3730"/>
+<String CONTENT="by" HEIGHT="47" WIDTH="65" VPOS="2987" HPOS="3769"/>
+<SP HEIGHT="49" WIDTH="37" VPOS="2985" HPOS="3835"/>
+<String CONTENT="William" HEIGHT="41" WIDTH="241" VPOS="2983" HPOS="3873"/>
+<SP HEIGHT="37" WIDTH="33" VPOS="2984" HPOS="4115"/>
+<String CONTENT="W." HEIGHT="39" WIDTH="58" VPOS="2984" HPOS="4149"/>
+<SP HEIGHT="42" WIDTH="44" VPOS="2981" HPOS="4208"/>
+<String CONTENT="Docter." HEIGHT="40" WIDTH="231" VPOS="2980" HPOS="4253"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1058" VPOS="3039" HPOS="3221">
+<String CONTENT="Paul" HEIGHT="40" WIDTH="132" VPOS="3046" HPOS="3221"/>
+<SP HEIGHT="39" WIDTH="36" VPOS="3046" HPOS="3353"/>
+<String CONTENT="C." HEIGHT="40" WIDTH="58" VPOS="3047" HPOS="3389"/>
+<SP HEIGHT="40" WIDTH="48" VPOS="3047" HPOS="3447"/>
+<String CONTENT="Bovey" HEIGHT="47" WIDTH="167" VPOS="3047" HPOS="3495"/>
+<SP HEIGHT="49" WIDTH="40" VPOS="3045" HPOS="3662"/>
+<String CONTENT="&amp;" HEIGHT="37" WIDTH="32" VPOS="3045" HPOS="3702"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="3044" HPOS="3734"/>
+<String CONTENT="Gerald" HEIGHT="42" WIDTH="198" VPOS="3041" HPOS="3773"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="3042" HPOS="3971"/>
+<String CONTENT="W." HEIGHT="39" WIDTH="58" VPOS="3043" HPOS="4011"/>
+<SP HEIGHT="41" WIDTH="49" VPOS="3041" HPOS="4069"/>
+<String CONTENT="Shaw," HEIGHT="48" WIDTH="161" VPOS="3041" HPOS="4118"/>
+</TextLine>
+<TextLine HEIGHT="59" WIDTH="1162" VPOS="3094" HPOS="3219">
+<String CONTENT="assistant" HEIGHT="42" WIDTH="304" VPOS="3103" HPOS="3219"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="3104" HPOS="3524"/>
+<String CONTENT="reporters." HEIGHT="50" WIDTH="331" VPOS="3102" HPOS="3565"/>
+<SP HEIGHT="42" WIDTH="82" VPOS="3100" HPOS="3897"/>
+<String CONTENT="Official" HEIGHT="41" WIDTH="272" VPOS="3096" HPOS="3980"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="3096" HPOS="4253"/>
+<String CONTENT="ed." HEIGHT="41" WIDTH="88" VPOS="3096" HPOS="4293"/>
+</TextLine>
+<TextLine HEIGHT="58" WIDTH="1025" VPOS="3153" HPOS="3218" CS="1">
+<String CONTENT="Norwalk," HEIGHT="49" WIDTH="266" VPOS="3161" HPOS="3218"/>
+<SP HEIGHT="49" WIDTH="46" VPOS="3161" HPOS="3485"/>
+<String CONTENT="Law" HEIGHT="38" WIDTH="98" VPOS="3161" HPOS="3532"/>
+<SP HEIGHT="37" WIDTH="36" VPOS="3161" HPOS="3631"/>
+<String CONTENT="Abstract" HEIGHT="42" WIDTH="269" VPOS="3157" HPOS="3668"/>
+<SP HEIGHT="38" WIDTH="43" VPOS="3158" HPOS="3938"/>
+<String CONTENT="Pub." HEIGHT="39" WIDTH="123" VPOS="3158" HPOS="3982"/>
+<SP HEIGHT="42" WIDTH="45" VPOS="3155" HPOS="4106"/>
+<String CONTENT="Co." HEIGHT="40" WIDTH="91" VPOS="3155" HPOS="4152"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="1244" VPOS="3208" HPOS="3215">
+<String CONTENT="&#169;" HEIGHT="39" WIDTH="38" VPOS="3220" HPOS="3215"/>
+<SP HEIGHT="40" WIDTH="31" VPOS="3220" HPOS="3254"/>
+<String CONTENT="William" HEIGHT="43" WIDTH="240" VPOS="3218" HPOS="3286"/>
+<SP HEIGHT="38" WIDTH="35" VPOS="3220" HPOS="3527"/>
+<String CONTENT="W." HEIGHT="40" WIDTH="57" VPOS="3220" HPOS="3563"/>
+<SP HEIGHT="42" WIDTH="46" VPOS="3218" HPOS="3621"/>
+<String CONTENT="Docter" HEIGHT="40" WIDTH="204" VPOS="3217" HPOS="3668"/>
+<SP HEIGHT="43" WIDTH="39" VPOS="3214" HPOS="3873"/>
+<String CONTENT="for" HEIGHT="40" WIDTH="96" VPOS="3215" HPOS="3913"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="3215" HPOS="4010"/>
+<String CONTENT="the" HEIGHT="39" WIDTH="98" VPOS="3215" HPOS="4049"/>
+<SP HEIGHT="39" WIDTH="42" VPOS="3214" HPOS="4148"/>
+<String CONTENT="State" HEIGHT="41" WIDTH="163" VPOS="3212" HPOS="4191"/>
+<SP HEIGHT="31" WIDTH="41" VPOS="3221" HPOS="4355"/>
+<String CONTENT="of" HEIGHT="38" WIDTH="62" VPOS="3211" HPOS="4397"/>
+</TextLine>
+<TextLine HEIGHT="46" WIDTH="364" VPOS="3275" HPOS="3222">
+<String CONTENT="Ohio." HEIGHT="42" WIDTH="157" VPOS="3278" HPOS="3222"/>
+<SP HEIGHT="44" WIDTH="77" VPOS="3277" HPOS="3380"/>
+<String CONTENT="Vol." HEIGHT="42" WIDTH="128" VPOS="3276" HPOS="3458"/>
+</TextLine>
+<TextLine HEIGHT="63" WIDTH="819" VPOS="3322" HPOS="3217" CS="1">
+<String CONTENT="31." HEIGHT="47" WIDTH="93" VPOS="3336" HPOS="3217"/>
+<SP/>
+<String CONTENT="&#169;" HEIGHT="41" WIDTH="38" VPOS="3334" HPOS="3388"/>
+<SP HEIGHT="40" WIDTH="36" VPOS="3335" HPOS="3427"/>
+<String CONTENT="26Jan73;" HEIGHT="57" WIDTH="260" VPOS="3326" HPOS="3464"/>
+<SP HEIGHT="49" WIDTH="46" VPOS="3334" HPOS="3725"/>
+<!-- cceid 20DF81CE-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A419731." HEIGHT="58" WIDTH="264" VPOS="3323" HPOS="3772"/>
+</TextLine>
+<TextLine HEIGHT="62" WIDTH="818" VPOS="3387" HPOS="3227" CS="1">
+<String CONTENT="32." HEIGHT="48" WIDTH="93" VPOS="3395" HPOS="3227"/>
+<SP/>
+<String CONTENT="&#169;" HEIGHT="40" WIDTH="39" VPOS="3396" HPOS="3394"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="3396" HPOS="3434"/>
+<String CONTENT="26Apr73;" HEIGHT="52" WIDTH="261" VPOS="3396" HPOS="3472"/>
+<SP HEIGHT="50" WIDTH="44" VPOS="3398" HPOS="3734"/>
+<String CONTENT="A432482." HEIGHT="57" WIDTH="266" VPOS="3388" HPOS="3779"/>
+</TextLine>
+<TextLine HEIGHT="57" WIDTH="1299" VPOS="3520" HPOS="3170">
+<String CONTENT="OHIO" HEIGHT="40" WIDTH="131" VPOS="3522" HPOS="3170"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="3524" HPOS="3301"/>
+<String CONTENT="OPINIONS," HEIGHT="52" WIDTH="297" VPOS="3523" HPOS="3340"/>
+<SP HEIGHT="51" WIDTH="48" VPOS="3524" HPOS="3637"/>
+<String CONTENT="SECOND" HEIGHT="38" WIDTH="202" VPOS="3524" HPOS="3685"/>
+<SP HEIGHT="37" WIDTH="40" VPOS="3524" HPOS="3887"/>
+<String CONTENT="SERIES." HEIGHT="41" WIDTH="228" VPOS="3523" HPOS="3927"/>
+<SP HEIGHT="40" WIDTH="80" VPOS="3524" HPOS="4155"/>
+<String CONTENT="Reports" HEIGHT="48" WIDTH="234" VPOS="3522" HPOS="4235"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="1267" VPOS="3575" HPOS="3239">
+<String CONTENT="of" HEIGHT="39" WIDTH="60" VPOS="3578" HPOS="3239"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="3578" HPOS="3300"/>
+<String CONTENT="cases" HEIGHT="31" WIDTH="161" VPOS="3587" HPOS="3341"/>
+<SP HEIGHT="28" WIDTH="41" VPOS="3588" HPOS="3503"/>
+<String CONTENT="argued" HEIGHT="48" WIDTH="199" VPOS="3579" HPOS="3545"/>
+<SP HEIGHT="37" WIDTH="41" VPOS="3579" HPOS="3745"/>
+<String CONTENT="and" HEIGHT="37" WIDTH="95" VPOS="3579" HPOS="3787"/>
+<SP HEIGHT="39" WIDTH="41" VPOS="3578" HPOS="3883"/>
+<String CONTENT="determined" HEIGHT="39" WIDTH="336" VPOS="3578" HPOS="3925"/>
+<SP HEIGHT="37" WIDTH="46" VPOS="3578" HPOS="4262"/>
+<String CONTENT="in" HEIGHT="38" WIDTH="61" VPOS="3578" HPOS="4309"/>
+<SP HEIGHT="29" WIDTH="36" VPOS="3587" HPOS="4371"/>
+<String CONTENT="all" HEIGHT="36" WIDTH="98" VPOS="3578" HPOS="4408"/>
+</TextLine>
+<TextLine HEIGHT="53" WIDTH="1052" VPOS="3634" HPOS="3239">
+<String CONTENT="Ohio" HEIGHT="41" WIDTH="131" VPOS="3636" HPOS="3239"/>
+<SP HEIGHT="32" WIDTH="38" VPOS="3645" HPOS="3371"/>
+<String CONTENT="courts." HEIGHT="41" WIDTH="226" VPOS="3637" HPOS="3410"/>
+<SP HEIGHT="40" WIDTH="84" VPOS="3638" HPOS="3637"/>
+<String CONTENT="Cincinnati," HEIGHT="52" WIDTH="363" VPOS="3635" HPOS="3722"/>
+<SP HEIGHT="49" WIDTH="42" VPOS="3638" HPOS="4086"/>
+<String CONTENT="W." HEIGHT="40" WIDTH="60" VPOS="3638" HPOS="4129"/>
+<SP HEIGHT="40" WIDTH="44" VPOS="3638" HPOS="4190"/>
+<String CONTENT="H." HEIGHT="40" WIDTH="56" VPOS="3638" HPOS="4235"/>
+</TextLine>
+<TextLine HEIGHT="44" WIDTH="1163" VPOS="3693" HPOS="3232" CS="1">
+<String CONTENT="Anderson" HEIGHT="40" WIDTH="276" VPOS="3695" HPOS="3232"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="3697" HPOS="3509"/>
+<String CONTENT="Co." HEIGHT="38" WIDTH="87" VPOS="3697" HPOS="3550"/>
+<SP HEIGHT="38" WIDTH="76" VPOS="3697" HPOS="3638"/>
+<String CONTENT="&#169;" HEIGHT="38" WIDTH="38" VPOS="3697" HPOS="3715"/>
+<SP HEIGHT="39" WIDTH="29" VPOS="3696" HPOS="3754"/>
+<String CONTENT="W." HEIGHT="38" WIDTH="57" VPOS="3696" HPOS="3784"/>
+<SP HEIGHT="39" WIDTH="48" VPOS="3696" HPOS="3842"/>
+<String CONTENT="H." HEIGHT="37" WIDTH="55" VPOS="3697" HPOS="3891"/>
+<SP HEIGHT="39" WIDTH="42" VPOS="3695" HPOS="3947"/>
+<String CONTENT="Anderson" HEIGHT="39" WIDTH="277" VPOS="3695" HPOS="3990"/>
+<SP HEIGHT="37" WIDTH="40" VPOS="3697" HPOS="4268"/>
+<String CONTENT="Co." HEIGHT="38" WIDTH="86" VPOS="3697" HPOS="4309"/>
+</TextLine>
+<TextLine HEIGHT="42" WIDTH="128" VPOS="3752" HPOS="3233">
+<String CONTENT="Vol." HEIGHT="42" WIDTH="128" VPOS="3752" HPOS="3233"/>
+</TextLine>
+<TextLine HEIGHT="61" WIDTH="812" VPOS="3801" HPOS="3238" STYLEREFS="StyleId-4F048AFD-FB82-4E9F-9F39-3333E0F2FF31-" CS="1">
+<String CONTENT="60." HEIGHT="48" WIDTH="89" VPOS="3805" HPOS="3238"/>
+<SP/>
+<String CONTENT="&#169;" HEIGHT="40" WIDTH="36" VPOS="3814" HPOS="3406"/>
+<SP/>
+<String CONTENT="13Mar73;" HEIGHT="49" WIDTH="259" VPOS="3812" HPOS="3481"/>
+<SP HEIGHT="49" WIDTH="40" VPOS="3812" HPOS="3741"/>
+<!-- cceid 20E2BAF8-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A419681." HEIGHT="56" WIDTH="268" VPOS="3802" HPOS="3782"/>
+</TextLine>
+<TextLine HEIGHT="61" WIDTH="814" VPOS="3875" HPOS="3242" CS="1">
+<String CONTENT="61." HEIGHT="51" WIDTH="89" VPOS="3875" HPOS="3242"/>
+<SP/>
+<String CONTENT="&#169;" HEIGHT="40" WIDTH="39" VPOS="3884" HPOS="3409"/>
+<SP/>
+<String CONTENT="12Jun73;" HEIGHT="51" WIDTH="261" VPOS="3884" HPOS="3484"/>
+<SP HEIGHT="49" WIDTH="46" VPOS="3886" HPOS="3746"/>
+<String CONTENT="A443936." HEIGHT="58" WIDTH="263" VPOS="3876" HPOS="3793"/>
+</TextLine>
+<TextLine HEIGHT="59" WIDTH="1376" VPOS="3997" HPOS="3150">
+<String CONTENT="OHIO" HEIGHT="39" WIDTH="133" VPOS="4014" HPOS="3150"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="4013" HPOS="3284"/>
+<String CONTENT="PRACTICE." HEIGHT="43" WIDTH="294" VPOS="4010" HPOS="3323"/>
+<SP HEIGHT="42" WIDTH="76" VPOS="4010" HPOS="3618"/>
+<String CONTENT="Vol.8-10:" HEIGHT="52" WIDTH="303" VPOS="3998" HPOS="3695"/>
+<SP HEIGHT="39" WIDTH="45" VPOS="4007" HPOS="3998"/>
+<String CONTENT="Rules" HEIGHT="39" WIDTH="166" VPOS="4006" HPOS="4044"/>
+<SP HEIGHT="30" WIDTH="42" VPOS="4012" HPOS="4211"/>
+<String CONTENT="of" HEIGHT="40" WIDTH="64" VPOS="4002" HPOS="4254"/>
+<SP HEIGHT="41" WIDTH="41" VPOS="4002" HPOS="4318"/>
+<String CONTENT="civil" HEIGHT="41" WIDTH="167" VPOS="4000" HPOS="4359"/>
+</TextLine>
+<TextLine HEIGHT="68" WIDTH="1329" VPOS="4052" HPOS="3220">
+<String CONTENT="procedure" HEIGHT="51" WIDTH="300" VPOS="4067" HPOS="3220"/>
+<SP HEIGHT="31" WIDTH="41" VPOS="4074" HPOS="3521"/>
+<String CONTENT="annotated." HEIGHT="43" WIDTH="330" VPOS="4062" HPOS="3563"/>
+<SP HEIGHT="42" WIDTH="85" VPOS="4062" HPOS="3894"/>
+<String CONTENT="1973" HEIGHT="47" WIDTH="129" VPOS="4060" HPOS="3980"/>
+<SP HEIGHT="49" WIDTH="39" VPOS="4060" HPOS="4110"/>
+<String CONTENT="pocket" HEIGHT="53" WIDTH="201" VPOS="4057" HPOS="4150"/>
+<SP HEIGHT="48" WIDTH="38" VPOS="4058" HPOS="4352"/>
+<String CONTENT="part." HEIGHT="51" WIDTH="158" VPOS="4055" HPOS="4391"/>
+</TextLine>
+<TextLine HEIGHT="65" WIDTH="1269" VPOS="4109" HPOS="3221">
+<String CONTENT="St." HEIGHT="40" WIDTH="87" VPOS="4126" HPOS="3221"/>
+<SP HEIGHT="40" WIDTH="49" VPOS="4126" HPOS="3309"/>
+<String CONTENT="Paul," HEIGHT="49" WIDTH="158" VPOS="4123" HPOS="3359"/>
+<SP HEIGHT="48" WIDTH="37" VPOS="4124" HPOS="3518"/>
+<String CONTENT="West" HEIGHT="42" WIDTH="138" VPOS="4121" HPOS="3556"/>
+<SP HEIGHT="41" WIDTH="43" VPOS="4121" HPOS="3695"/>
+<String CONTENT="Pub." HEIGHT="40" WIDTH="120" VPOS="4121" HPOS="3739"/>
+<SP HEIGHT="43" WIDTH="50" VPOS="4119" HPOS="3860"/>
+<String CONTENT="Co." HEIGHT="40" WIDTH="86" VPOS="4120" HPOS="3911"/>
+<SP HEIGHT="46" WIDTH="82" VPOS="4118" HPOS="3998"/>
+<String CONTENT="3" HEIGHT="46" WIDTH="29" VPOS="4118" HPOS="4081"/>
+<SP HEIGHT="46" WIDTH="39" VPOS="4118" HPOS="4111"/>
+<String CONTENT="v." HEIGHT="31" WIDTH="53" VPOS="4127" HPOS="4151"/>
+<SP HEIGHT="43" WIDTH="79" VPOS="4115" HPOS="4205"/>
+<String CONTENT="&#169;" HEIGHT="40" WIDTH="40" VPOS="4115" HPOS="4285"/>
+<SP HEIGHT="42" WIDTH="26" VPOS="4114" HPOS="4326"/>
+<String CONTENT="West" HEIGHT="42" WIDTH="137" VPOS="4112" HPOS="4353"/>
+</TextLine>
+<TextLine HEIGHT="65" WIDTH="914" VPOS="4165" HPOS="3222">
+<String CONTENT="Pub." HEIGHT="40" WIDTH="120" VPOS="4183" HPOS="3222"/>
+<SP HEIGHT="41" WIDTH="50" VPOS="4182" HPOS="3343"/>
+<String CONTENT="Co.;" HEIGHT="47" WIDTH="122" VPOS="4182" HPOS="3394"/>
+<SP HEIGHT="49" WIDTH="47" VPOS="4180" HPOS="3517"/>
+<String CONTENT="20Dec72;" HEIGHT="48" WIDTH="262" VPOS="4178" HPOS="3565"/>
+<SP HEIGHT="48" WIDTH="45" VPOS="4178" HPOS="3828"/>
+<!-- cceid 20E61844-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A404427." HEIGHT="56" WIDTH="262" VPOS="4166" HPOS="3874"/>
+</TextLine>
+<TextLine HEIGHT="53" WIDTH="713" VPOS="4295" HPOS="3151">
+<String CONTENT="OHIO" HEIGHT="42" WIDTH="132" VPOS="4295" HPOS="3151"/>
+<SP HEIGHT="42" WIDTH="40" VPOS="4295" HPOS="3284"/>
+<String CONTENT="PROMOTIONS," HEIGHT="53" WIDTH="366" VPOS="4295" HPOS="3325"/>
+<SP HEIGHT="51" WIDTH="45" VPOS="4297" HPOS="3692"/>
+<String CONTENT="INC." HEIGHT="41" WIDTH="126" VPOS="4296" HPOS="3738"/>
+</TextLine>
+<TextLine HEIGHT="55" WIDTH="1265" VPOS="4351" HPOS="3221">
+<String CONTENT="Jack" HEIGHT="40" WIDTH="134" VPOS="4355" HPOS="3221"/>
+<SP HEIGHT="38" WIDTH="35" VPOS="4358" HPOS="3356"/>
+<String CONTENT="Nicklaus" HEIGHT="41" WIDTH="269" VPOS="4356" HPOS="3392"/>
+<SP HEIGHT="28" WIDTH="43" VPOS="4366" HPOS="3662"/>
+<String CONTENT="on" HEIGHT="27" WIDTH="62" VPOS="4367" HPOS="3706"/>
+<SP HEIGHT="37" WIDTH="39" VPOS="4367" HPOS="3769"/>
+<String CONTENT="golf." HEIGHT="50" WIDTH="158" VPOS="4355" HPOS="3809"/>
+<SP HEIGHT="41" WIDTH="81" VPOS="4355" HPOS="3968"/>
+<String CONTENT="See" HEIGHT="38" WIDTH="96" VPOS="4355" HPOS="4050"/>
+<SP HEIGHT="38" WIDTH="40" VPOS="4355" HPOS="4147"/>
+<String CONTENT="NICKLAUS," HEIGHT="51" WIDTH="298" VPOS="4353" HPOS="4188"/>
+</TextLine>
+<TextLine HEIGHT="41" WIDTH="158" VPOS="4415" HPOS="3291">
+<String CONTENT="JACK." HEIGHT="41" WIDTH="158" VPOS="4415" HPOS="3291"/>
+</TextLine>
+<TextLine HEIGHT="45" WIDTH="915" VPOS="4532" HPOS="3145">
+<String CONTENT="OHIO" HEIGHT="39" WIDTH="130" VPOS="4532" HPOS="3145"/>
+<SP HEIGHT="38" WIDTH="42" VPOS="4533" HPOS="3276"/>
+<String CONTENT="SAVINGS" HEIGHT="40" WIDTH="233" VPOS="4533" HPOS="3319"/>
+<SP HEIGHT="38" WIDTH="37" VPOS="4535" HPOS="3553"/>
+<String CONTENT="&amp;" HEIGHT="38" WIDTH="31" VPOS="4535" HPOS="3591"/>
+<SP HEIGHT="38" WIDTH="38" VPOS="4535" HPOS="3623"/>
+<String CONTENT="LOAN" HEIGHT="39" WIDTH="133" VPOS="4535" HPOS="3662"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="4535" HPOS="3796"/>
+<String CONTENT="LEAGUE." HEIGHT="43" WIDTH="225" VPOS="4534" HPOS="3835"/>
+</TextLine>
+<TextLine HEIGHT="52" WIDTH="1269" VPOS="4591" HPOS="3211">
+<String CONTENT="Ohio" HEIGHT="39" WIDTH="132" VPOS="4592" HPOS="3211"/>
+<SP HEIGHT="30" WIDTH="44" VPOS="4601" HPOS="3344"/>
+<String CONTENT="savings" HEIGHT="50" WIDTH="230" VPOS="4591" HPOS="3389"/>
+<SP HEIGHT="29" WIDTH="40" VPOS="4603" HPOS="3620"/>
+<String CONTENT="and" HEIGHT="38" WIDTH="98" VPOS="4593" HPOS="3661"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="4593" HPOS="3760"/>
+<String CONTENT="loan" HEIGHT="40" WIDTH="133" VPOS="4593" HPOS="3800"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="4603" HPOS="3934"/>
+<String CONTENT="guide." HEIGHT="48" WIDTH="191" VPOS="4594" HPOS="3973"/>
+<SP HEIGHT="40" WIDTH="83" VPOS="4595" HPOS="4165"/>
+<String CONTENT="Rev." HEIGHT="41" WIDTH="122" VPOS="4595" HPOS="4249"/>
+<SP HEIGHT="41" WIDTH="50" VPOS="4595" HPOS="4372"/>
+<String CONTENT="to" HEIGHT="39" WIDTH="57" VPOS="4595" HPOS="4423"/>
+</TextLine>
+<TextLine HEIGHT="54" WIDTH="1089" VPOS="4648" HPOS="3283">
+<String CONTENT="Jan." HEIGHT="39" WIDTH="123" VPOS="4651" HPOS="3283"/>
+<SP HEIGHT="43" WIDTH="48" VPOS="4648" HPOS="3407"/>
+<String CONTENT="1," HEIGHT="50" WIDTH="54" VPOS="4649" HPOS="3456"/>
+<SP HEIGHT="49" WIDTH="46" VPOS="4650" HPOS="3511"/>
+<String CONTENT="1973." HEIGHT="48" WIDTH="157" VPOS="4649" HPOS="3558"/>
+<SP HEIGHT="39" WIDTH="83" VPOS="4652" HPOS="3716"/>
+<String CONTENT="Looseleaf." HEIGHT="42" WIDTH="329" VPOS="4651" HPOS="3800"/>
+<SP HEIGHT="41" WIDTH="82" VPOS="4652" HPOS="4130"/>
+<String CONTENT="Appl." HEIGHT="50" WIDTH="159" VPOS="4652" HPOS="4213"/>
+</TextLine>
+<TextLine HEIGHT="45" WIDTH="1157" VPOS="4706" HPOS="3283" CS="1">
+<String CONTENT="author:" HEIGHT="41" WIDTH="222" VPOS="4707" HPOS="3283"/>
+<SP HEIGHT="39" WIDTH="53" VPOS="4709" HPOS="3506"/>
+<String CONTENT="Banks-Baldwin" HEIGHT="41" WIDTH="441" VPOS="4707" HPOS="3560"/>
+<SP HEIGHT="38" WIDTH="39" VPOS="4709" HPOS="4002"/>
+<String CONTENT="Law" HEIGHT="39" WIDTH="99" VPOS="4709" HPOS="4042"/>
+<SP HEIGHT="37" WIDTH="36" VPOS="4711" HPOS="4142"/>
+<String CONTENT="Pub." HEIGHT="41" WIDTH="123" VPOS="4709" HPOS="4179"/>
+<SP HEIGHT="42" WIDTH="49" VPOS="4709" HPOS="4303"/>
+<String CONTENT="Co." HEIGHT="40" WIDTH="87" VPOS="4710" HPOS="4353"/>
+</TextLine>
+<TextLine HEIGHT="52" WIDTH="991" VPOS="4765" HPOS="3277" CS="1">
+<String CONTENT="&#169;" HEIGHT="39" WIDTH="39" VPOS="4765" HPOS="3277"/>
+<SP HEIGHT="39" WIDTH="34" VPOS="4765" HPOS="3317"/>
+<String CONTENT="Banks-Baldwin" HEIGHT="40" WIDTH="441" VPOS="4765" HPOS="3352"/>
+<SP HEIGHT="37" WIDTH="39" VPOS="4768" HPOS="3794"/>
+<String CONTENT="Law" HEIGHT="38" WIDTH="100" VPOS="4768" HPOS="3834"/>
+<SP HEIGHT="37" WIDTH="36" VPOS="4769" HPOS="3935"/>
+<String CONTENT="Pub." HEIGHT="40" WIDTH="123" VPOS="4768" HPOS="3972"/>
+<SP HEIGHT="40" WIDTH="50" VPOS="4768" HPOS="4096"/>
+<String CONTENT="Co.;" HEIGHT="49" WIDTH="121" VPOS="4768" HPOS="4147"/>
+</TextLine>
+<TextLine HEIGHT="61" WIDTH="568" VPOS="4813" HPOS="3284">
+<String CONTENT="28Mar73;" HEIGHT="60" WIDTH="259" VPOS="4814" HPOS="3284"/>
+<SP HEIGHT="49" WIDTH="46" VPOS="4825" HPOS="3544"/>
+<!-- cceid 20ECA3C7-72DD-1014-B3A3-DDF21CF07E3D --><String CONTENT="A423393." HEIGHT="57" WIDTH="261" VPOS="4814" HPOS="3591"/>
+</TextLine>
+<TextLine HEIGHT="60" WIDTH="1340" VPOS="4926" HPOS="3172">
+<String CONTENT="OHIO" HEIGHT="41" WIDTH="132" VPOS="4926" HPOS="3172"/>
+<SP HEIGHT="39" WIDTH="37" VPOS="4929" HPOS="3305"/>
+<String CONTENT="SOCIETY" HEIGHT="42" WIDTH="242" VPOS="4931" HPOS="3343"/>
+<SP HEIGHT="39" WIDTH="30" VPOS="4934" HPOS="3586"/>
+<String CONTENT="DAR." HEIGHT="44" WIDTH="125" VPOS="4934" HPOS="3617"/>
+<SP HEIGHT="39" WIDTH="82" VPOS="4939" HPOS="3743"/>
+<String CONTENT="See" HEIGHT="40" WIDTH="96" VPOS="4939" HPOS="3826"/>
+<SP HEIGHT="39" WIDTH="39" VPOS="4940" HPOS="3923"/>
+<String CONTENT="DAUGHTERS" HEIGHT="43" WIDTH="305" VPOS="4940" HPOS="3963"/>
+<SP HEIGHT="39" WIDTH="42" VPOS="4945" HPOS="4269"/>
+<String CONTENT="OF" HEIGHT="40" WIDTH="62" VPOS="4945" HPOS="4312"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="4946" HPOS="4375"/>
+<String CONTENT="THE" HEIGHT="39" WIDTH="98" VPOS="4947" HPOS="4414"/>
+</TextLine>
+<TextLine HEIGHT="60" WIDTH="1199" VPOS="4988" HPOS="3236">
+<String CONTENT="AMERICAN" HEIGHT="44" WIDTH="274" VPOS="4988" HPOS="3236"/>
+<SP HEIGHT="40" WIDTH="36" VPOS="4992" HPOS="3511"/>
+<String CONTENT="REVOLUTION." HEIGHT="47" WIDTH="368" VPOS="4993" HPOS="3548"/>
+<SP HEIGHT="40" WIDTH="83" VPOS="5000" HPOS="3917"/>
+<String CONTENT="OHIO" HEIGHT="39" WIDTH="133" VPOS="5000" HPOS="4001"/>
+<SP HEIGHT="40" WIDTH="35" VPOS="5001" HPOS="4135"/>
+<String CONTENT="SOCIETY." HEIGHT="45" WIDTH="264" VPOS="5003" HPOS="4171"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1091" VPOS="5108" HPOS="3181">
+<String CONTENT="OHIO" HEIGHT="40" WIDTH="132" VPOS="5110" HPOS="3181"/>
+<SP HEIGHT="40" WIDTH="38" VPOS="5110" HPOS="3314"/>
+<String CONTENT="STATE" HEIGHT="41" WIDTH="168" VPOS="5110" HPOS="3353"/>
+<SP HEIGHT="40" WIDTH="35" VPOS="5111" HPOS="3522"/>
+<String CONTENT="UNIVERSITY," HEIGHT="54" WIDTH="368" VPOS="5110" HPOS="3558"/>
+<SP HEIGHT="54" WIDTH="45" VPOS="5110" HPOS="3927"/>
+<String CONTENT="COLUMBUS." HEIGHT="47" WIDTH="299" VPOS="5110" HPOS="3973"/>
+</TextLine>
+<TextLine HEIGHT="48" WIDTH="1239" VPOS="5167" HPOS="3250">
+<String CONTENT="COLLEGE" HEIGHT="42" WIDTH="235" VPOS="5169" HPOS="3250"/>
+<SP HEIGHT="40" WIDTH="38" VPOS="5170" HPOS="3486"/>
+<String CONTENT="OF" HEIGHT="40" WIDTH="66" VPOS="5170" HPOS="3525"/>
+<SP HEIGHT="39" WIDTH="35" VPOS="5170" HPOS="3592"/>
+<String CONTENT="EDUCATION." HEIGHT="45" WIDTH="333" VPOS="5169" HPOS="3628"/>
+<SP HEIGHT="44" WIDTH="82" VPOS="5170" HPOS="3962"/>
+<String CONTENT="INSTRUCTIONAL" HEIGHT="42" WIDTH="444" VPOS="5169" HPOS="4045"/>
+</TextLine>
+<TextLine HEIGHT="46" WIDTH="1092" VPOS="5224" HPOS="3247" CS="1">
+<String CONTENT="MATERIALS" HEIGHT="42" WIDTH="306" VPOS="5225" HPOS="3247"/>
+<SP HEIGHT="40" WIDTH="38" VPOS="5226" HPOS="3554"/>
+<String CONTENT="LABORATORY." HEIGHT="44" WIDTH="367" VPOS="5226" HPOS="3593"/>
+<SP HEIGHT="44" WIDTH="80" VPOS="5226" HPOS="3961"/>
+<String CONTENT="See" HEIGHT="42" WIDTH="98" VPOS="5226" HPOS="4042"/>
+<SP HEIGHT="41" WIDTH="38" VPOS="5227" HPOS="4141"/>
+<String CONTENT="OHIO." HEIGHT="42" WIDTH="159" VPOS="5227" HPOS="4180"/>
+</TextLine>
+<TextLine HEIGHT="47" WIDTH="1265" VPOS="5282" HPOS="3247">
+<String CONTENT="TRADE" HEIGHT="39" WIDTH="170" VPOS="5285" HPOS="3247"/>
+<SP HEIGHT="39" WIDTH="36" VPOS="5285" HPOS="3418"/>
+<String CONTENT="&amp;" HEIGHT="38" WIDTH="31" VPOS="5286" HPOS="3455"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="5285" HPOS="3487"/>
+<String CONTENT="INDUSTRIAL" HEIGHT="41" WIDTH="342" VPOS="5284" HPOS="3526"/>
+<SP HEIGHT="40" WIDTH="34" VPOS="5284" HPOS="3869"/>
+<String CONTENT="EDUCATION" HEIGHT="41" WIDTH="307" VPOS="5284" HPOS="3904"/>
+<SP HEIGHT="39" WIDTH="36" VPOS="5285" HPOS="4212"/>
+<String CONTENT="SERVICE." HEIGHT="45" WIDTH="263" VPOS="5284" HPOS="4249"/>
+</TextLine>
+<TextLine HEIGHT="47" WIDTH="1192" VPOS="5340" HPOS="3251" CS="1">
+<String CONTENT="INSTRUCTIONAL" HEIGHT="42" WIDTH="443" VPOS="5341" HPOS="3251"/>
+<SP HEIGHT="41" WIDTH="34" VPOS="5342" HPOS="3695"/>
+<String CONTENT="MATERIALS" HEIGHT="43" WIDTH="306" VPOS="5341" HPOS="3730"/>
+<SP HEIGHT="40" WIDTH="39" VPOS="5342" HPOS="4037"/>
+<String CONTENT="LABORATORY." HEIGHT="44" WIDTH="366" VPOS="5343" HPOS="4077"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1091" VPOS="5442" HPOS="3191" CS="1">
+<String CONTENT="OHIO" HEIGHT="41" WIDTH="134" VPOS="5442" HPOS="3191"/>
+<SP HEIGHT="40" WIDTH="37" VPOS="5443" HPOS="3326"/>
+<String CONTENT="STATE" HEIGHT="41" WIDTH="168" VPOS="5443" HPOS="3364"/>
+<SP HEIGHT="40" WIDTH="35" VPOS="5444" HPOS="3533"/>
+<String CONTENT="UNIVERSITY," HEIGHT="54" WIDTH="370" VPOS="5444" HPOS="3569"/>
+<SP HEIGHT="51" WIDTH="46" VPOS="5447" HPOS="3940"/>
+<String CONTENT="COLUMBUS." HEIGHT="45" WIDTH="295" VPOS="5447" HPOS="3987"/>
+</TextLine>
+<TextLine HEIGHT="49" WIDTH="1189" VPOS="5500" HPOS="3265">
+<String CONTENT="INSTRUCTIONAL" HEIGHT="43" WIDTH="444" VPOS="5500" HPOS="3265"/>
+<SP HEIGHT="41" WIDTH="29" VPOS="5502" HPOS="3710"/>
+<String CONTENT="MATERIALS" HEIGHT="42" WIDTH="307" VPOS="5502" HPOS="3740"/>
+<SP HEIGHT="40" WIDTH="41" VPOS="5505" HPOS="4048"/>
+<String CONTENT="LABORATORY." HEIGHT="45" WIDTH="364" VPOS="5504" HPOS="4090"/>
+</TextLine>
+<TextLine HEIGHT="46" WIDTH="1000" VPOS="5558" HPOS="3260">
+<String CONTENT="See" HEIGHT="42" WIDTH="98" VPOS="5558" HPOS="3260"/>
+<SP HEIGHT="42" WIDTH="39" VPOS="5558" HPOS="3359"/>
+<String CONTENT="OHIO." HEIGHT="44" WIDTH="158" VPOS="5558" HPOS="3399"/>
+<SP HEIGHT="42" WIDTH="79" VPOS="5560" HPOS="3558"/>
+<String CONTENT="TRADE" HEIGHT="41" WIDTH="170" VPOS="5560" HPOS="3638"/>
+<SP HEIGHT="40" WIDTH="33" VPOS="5561" HPOS="3809"/>
+<String CONTENT="&amp;" HEIGHT="39" WIDTH="31" VPOS="5561" HPOS="3843"/>
+<SP HEIGHT="41" WIDTH="43" VPOS="5561" HPOS="3875"/>
+<String CONTENT="INDUSTRIAL" HEIGHT="42" WIDTH="341" VPOS="5562" HPOS="3919"/>
+</TextLine>
+<TextLine HEIGHT="48" WIDTH="1137" VPOS="5616" HPOS="3259">
+<String CONTENT="EDUCATION" HEIGHT="42" WIDTH="308" VPOS="5616" HPOS="3259"/>
+<SP HEIGHT="40" WIDTH="36" VPOS="5618" HPOS="3568"/>
+<String CONTENT="SERVICE." HEIGHT="44" WIDTH="262" VPOS="5618" HPOS="3605"/>
+<SP HEIGHT="43" WIDTH="85" VPOS="5620" HPOS="3868"/>
+<String CONTENT="INSTRUCTIONAL" HEIGHT="44" WIDTH="442" VPOS="5620" HPOS="3954"/>
+</TextLine>
+<TextLine HEIGHT="46" WIDTH="713" VPOS="5674" HPOS="3257">
+<String CONTENT="MATERIALS" HEIGHT="42" WIDTH="305" VPOS="5674" HPOS="3257"/>
+<SP HEIGHT="40" WIDTH="40" VPOS="5676" HPOS="3563"/>
+<String CONTENT="LABORATORY." HEIGHT="44" WIDTH="366" VPOS="5676" HPOS="3604"/>
+</TextLine>
+<TextLine HEIGHT="56" WIDTH="1084" VPOS="5787" HPOS="3180" CS="1">
+<String CONTENT="OHIO" HEIGHT="39" WIDTH="133" VPOS="5787" HPOS="3180"/>
+<SP HEIGHT="38" WIDTH="37" VPOS="5788" HPOS="3314"/>
+<String CONTENT="STATE" HEIGHT="41" WIDTH="165" VPOS="5787" HPOS="3352"/>
+<SP HEIGHT="38" WIDTH="36" VPOS="5790" HPOS="3518"/>
+<String CONTENT="UNIVERSITY," HEIGHT="53" WIDTH="367" VPOS="5790" HPOS="3555"/>
+<SP HEIGHT="49" WIDTH="47" VPOS="5794" HPOS="3923"/>
+<String CONTENT="COLUMBUS." HEIGHT="43" WIDTH="293" VPOS="5794" HPOS="3971"/>
+</TextLine>
+<TextLine HEIGHT="47" WIDTH="964" VPOS="5845" HPOS="3244">
+<String CONTENT="TRADE" HEIGHT="40" WIDTH="172" VPOS="5845" HPOS="3244"/>
+<SP HEIGHT="40" WIDTH="38" VPOS="5846" HPOS="3416"/>
+<String CONTENT="&amp;" HEIGHT="39" WIDTH="32" VPOS="5847" HPOS="3454"/>
+<SP HEIGHT="39" WIDTH="38" VPOS="5847" HPOS="3486"/>
+<String CONTENT="INDUSTRIAL" HEIGHT="43" WIDTH="339" VPOS="5848" HPOS="3524"/>
+<SP HEIGHT="40" WIDTH="33" VPOS="5851" HPOS="3864"/>
+<String CONTENT="EDUCATION" HEIGHT="41" WIDTH="309" VPOS="5851" HPOS="3898"/>
+</TextLine>
+<TextLine HEIGHT="51" WIDTH="1188" VPOS="5903" HPOS="3248" CS="1">
+<String CONTENT="INSTRUCTIONAL" HEIGHT="43" WIDTH="442" VPOS="5903" HPOS="3248"/>
+<SP HEIGHT="38" WIDTH="34" VPOS="5908" HPOS="3691"/>
+<String CONTENT="MATERIALS" HEIGHT="41" WIDTH="306" VPOS="5908" HPOS="3726"/>
+<SP HEIGHT="41" WIDTH="39" VPOS="5909" HPOS="4033"/>
+<String CONTENT="LABORATORY." HEIGHT="43" WIDTH="363" VPOS="5911" HPOS="4073"/>
+</TextLine>
+<TextLine HEIGHT="50" WIDTH="993" VPOS="5960" HPOS="3247">
+<String CONTENT="See" HEIGHT="39" WIDTH="93" VPOS="5960" HPOS="3247"/>
+<SP HEIGHT="39" WIDTH="43" VPOS="5961" HPOS="3341"/>
+<String CONTENT="OHIO." HEIGHT="45" WIDTH="154" VPOS="5960" HPOS="3385"/>
+<SP HEIGHT="41" WIDTH="81" VPOS="5964" HPOS="3540"/>
+<String CONTENT="TRADE" HEIGHT="41" WIDTH="168" VPOS="5964" HPOS="3622"/>
+<SP HEIGHT="40" WIDTH="39" VPOS="5966" HPOS="3791"/>
+<String CONTENT="&amp;" HEIGHT="39" WIDTH="32" VPOS="5967" HPOS="3831"/>
+<SP HEIGHT="42" WIDTH="36" VPOS="5965" HPOS="3864"/>
+<String CONTENT="INDUSTRIAL" HEIGHT="44" WIDTH="339" VPOS="5966" HPOS="3901"/>
+</TextLine>
+<TextLine HEIGHT="50" WIDTH="1136" VPOS="6019" HPOS="3242">
+<String CONTENT="EDUCATION" HEIGHT="41" WIDTH="310" VPOS="6019" HPOS="3242"/>
+<SP HEIGHT="39" WIDTH="35" VPOS="6021" HPOS="3553"/>
+<String CONTENT="SERVICE." HEIGHT="46" WIDTH="259" VPOS="6021" HPOS="3589"/>
+<SP HEIGHT="43" WIDTH="85" VPOS="6025" HPOS="3849"/>
+<String CONTENT="INSTRUCTIONAL" HEIGHT="43" WIDTH="443" VPOS="6026" HPOS="3935"/>
+</TextLine>
+<TextLine HEIGHT="48" WIDTH="710" VPOS="6077" HPOS="3242">
+<String CONTENT="MATERIALS" HEIGHT="42" WIDTH="305" VPOS="6077" HPOS="3242"/>
+<SP HEIGHT="41" WIDTH="40" VPOS="6079" HPOS="3548"/>
+<String CONTENT="LABORATORY." HEIGHT="45" WIDTH="363" VPOS="6080" HPOS="3589"/>
+</TextLine>
+</TextBlock>
+</ComposedBlock>
+<GraphicalElement ID="Page1171_Block6" HEIGHT="10" WIDTH="94" VPOS="667" HPOS="983"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>
